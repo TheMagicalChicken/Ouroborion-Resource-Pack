@@ -1,0 +1,152 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/coal"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 2034
+      },
+      "model": "assassin_model/icon_assassins_blade"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2035
+      },
+      "model": "assassin_model/icon_blade_dance"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2036
+      },
+      "model": "assassin_model/icon_blade_slash"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2037
+      },
+      "model": "assassin_model/icon_dagger_throw"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2038
+      },
+      "model": "assassin_model/icon_dash"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2039
+      },
+      "model": "assassin_model/icon_shadow_walk"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2052
+      },
+      "model": "warrior_model/icon_brutal_strike"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2053
+      },
+      "model": "warrior_model/icon_chain_hook"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2054
+      },
+      "model": "warrior_model/icon_charge"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2055
+      },
+      "model": "warrior_model/icon_judgement"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2056
+      },
+      "model": "warrior_model/icon_rampage"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2057
+      },
+      "model": "warrior_model/icon_shield_barrier"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2058
+      },
+      "model": "archer_model/icon_backstep"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2059
+      },
+      "model": "archer_model/icon_deadly_javelin"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2060
+      },
+      "model": "archer_model/icon_dragon_piercer"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2061
+      },
+      "model": "archer_model/icon_hunters_focus"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2062
+      },
+      "model": "archer_model/icon_quick_shot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2063
+      },
+      "model": "archer_model/icon_windrazor"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2064
+      },
+      "model": "mage_model/icon_arcane_missile"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2065
+      },
+      "model": "mage_model/icon_blink"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2066
+      },
+      "model": "mage_model/icon_fireball"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2067
+      },
+      "model": "mage_model/icon_frost_nova"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2068
+      },
+      "model": "mage_model/icon_inferno_chains"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2069
+      },
+      "model": "mage_model/icon_meteor"
+    }
+  ]
+}
