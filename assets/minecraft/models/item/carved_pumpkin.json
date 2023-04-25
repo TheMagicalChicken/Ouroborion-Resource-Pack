@@ -1,0 +1,7 @@
+{
+    "parent": "block/carved_pumpkin",
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":5001}, "model": "item/boss/tlaloc/tlaloc_hat"}
+	]
+}

@@ -2,8 +2,8 @@
 	"credit": "wolf_awwent made with blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "wolftextures/wolfmob39item2",
-		"particle": "wolftextures/wolfmob39item2"
+		"1": "item/boss/wolf/wolfmob39item2",
+		"particle": "item/boss/wolf/wolfmob39item2"
 	},
 	"elements": [
 		{
