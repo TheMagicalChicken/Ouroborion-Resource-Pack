@@ -2,6 +2,26 @@
     "sources": [
         {
             "type": "single",
+            "resource": "minecraft:wolftextures/wolfmob39item1"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:wolftextures/wolfmob39item1_e"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:wolftextures/wolfmob39item2"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:wolftextures/wolfmob39item3"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:wolftextures/wolfmob39item3_e"
+        },
+        {
+            "type": "single",
             "resource": "minecraft:archer_texture/archer_bow"
         },
         {

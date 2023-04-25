@@ -4,7 +4,9 @@
 		"layer0": "item/netherite_sword"
 	},
 	"overrides": [
-		{"predicate": {"custom_model_data":3000001}, "model": "custom/elitecreatures/skeletons/skeletonecspear"},
-		{"predicate": {"custom_model_data":3000002}, "model": "custom/elitecreatures/skeletons/skeletonecsword"}
+		{ "predicate": { "custom_model_data": 5000}, "model": "item/boss/wolf/wolfmob39item2" },
+		{ "predicate": { "custom_model_data": 5001}, "model": "item/boss/tlaloc/tlaloc_staff" },
+		{"predicate": { "custom_model_data":3000001}, "model": "custom/elitecreatures/skeletons/skeletonecspear"},
+		{"predicate": { "custom_model_data":3000002}, "model": "custom/elitecreatures/skeletons/skeletonecsword"}
 	]
 }
