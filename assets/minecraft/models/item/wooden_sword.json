@@ -1,7 +1,7 @@
 {
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "item/netherite_sword"
+		"layer0": "item/wooden_sword"
 	},
 	"overrides": [
 		{ "predicate": { "custom_model_data": 5500}, "model": "item/instrument/lute" },
