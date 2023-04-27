@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/handheld",
-  "textures": { "layer0": "minecraft:item/temp/lute" },
+  "textures": { "layer0": "minecraft:item/instrument/lute" },
   "display": {
         "thirdperson_righthand": {
             "rotation": [ 135,-90,0],
