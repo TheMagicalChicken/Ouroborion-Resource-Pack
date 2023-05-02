@@ -65,11 +65,16 @@
             "model": "item/crossbow_firework"
         },
         {
-            "predicate": {
-                "charged": 1,
-				"custom_model_data":5500
-            },
+            "predicate": { "custom_model_data":5500 },
             "model": "item/instrument/flute"
+        },
+		{
+            "predicate": { "custom_model_data":5501 },
+            "model": "item/instrument/panpipes"
+        },
+		{
+            "predicate": { "custom_model_data":5502 },
+            "model": "item/instrument/bagpipes"
         }
     ]
 }
