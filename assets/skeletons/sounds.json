@@ -1,97 +1,97 @@
 {
  "custom.skeletons.skeletonblock": {
   "sounds": [
-   "custom/skeletons/skeletonblock"
+   "mobs/skeletons/skeletonblock"
   ]
  },
  "custom.skeletons.skeletonblockhit": {
   "sounds": [
-   "custom/skeletons/skeletonblockhit"
+   "mobs/skeletons/skeletonblockhit"
   ]
  },
  "custom.skeletons.skeletonhit": {
   "sounds": [
-   "custom/skeletons/skeletonhit"
+   "mobs/skeletons/skeletonhit"
   ]
  },
  "custom.skeletons.skeletonrangedhit": {
   "sounds": [
-   "custom/skeletons/skeletonrangedhit"
+   "mobs/skeletons/skeletonrangedhit"
   ]
  },
  "custom.skeletons.skeletonchargedhit": {
   "sounds": [
-   "custom/skeletons/skeletonchargedhit"
+   "mobs/skeletons/skeletonchargedhit"
   ]
  },
  "custom.skeletons.skeletondodge": {
   "sounds": [
-   "custom/skeletons/skeletondodge"
+   "mobs/skeletons/skeletondodge"
   ]
  },
  "custom.skeletons.skeletonambi": {
   "sounds": [
-   "custom/skeletons/skeletonambi"
+   "mobs/skeletons/skeletonambi"
   ]
  },
  "custom.skeletons.lichambi": {
   "sounds": [
-   "custom/skeletons/lichambi"
+   "mobs/skeletons/lichambi"
   ]
  },
  "custom.skeletons.lichhit": {
   "sounds": [
-   "custom/skeletons/lichhit"
+   "mobs/skeletons/lichhit"
   ]
  },
  "custom.skeletons.lichsummon": {
   "sounds": [
-   "custom/skeletons/lichsummon"
+   "mobs/skeletons/lichsummon"
   ]
  },
  "custom.skeletons.lichshield": {
   "sounds": [
-   "custom/skeletons/lichshield"
+   "mobs/skeletons/lichshield"
   ]
  },
  "custom.skeletons.lichfrostball": {
   "sounds": [
-   "custom/skeletons/lichfrostball"
+   "mobs/skeletons/lichfrostball"
   ]
  },
  "custom.skeletons.lichlifesteal": {
   "sounds": [
-   "custom/skeletons/lichlifesteal"
+   "mobs/skeletons/lichlifesteal"
   ]
  },
  "custom.skeletons.lichdeath": {
   "sounds": [
-   "custom/skeletons/lichdeath"
+   "mobs/skeletons/lichdeath"
   ]
  },
  "custom.skeletons.lichambi2": {
   "sounds": [
-   "custom/skeletons/lichambi2"
+   "mobs/skeletons/lichambi2"
   ]
  },
  "custom.skeletons.lichambi3": {
   "sounds": [
-   "custom/skeletons/lichambi3"
+   "mobs/skeletons/lichambi3"
   ]
  },
  "custom.skeletons.lichsmallimpact": {
   "sounds": [
-   "custom/skeletons/lichsmallimpact"
+   "mobs/skeletons/lichsmallimpact"
   ]
  },
  "custom.skeletons.lichbigimpact": {
   "sounds": [
-   "custom/skeletons/lichbigimpact"
+   "mobs/skeletons/lichbigimpact"
   ]
  },
  "custom.skeletons.skeletondeath": {
   "sounds": [
-   "custom/skeletons/skeletondeath"
+   "mobs/skeletons/skeletondeath"
   ]
  }
 }

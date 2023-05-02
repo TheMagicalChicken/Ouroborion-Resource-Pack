@@ -1,8 +1,8 @@
 {
 	"credit": "Made by samus2002",
 	"textures": {
-		"0": "archer_texture/icon_deadly_javelin",
-		"particle": "archer_texture/icon_deadly_javelin"
+		"0": "heroes/archer/icon_deadly_javelin",
+		"particle": "heroes/archer/icon_deadly_javelin"
 	},
 	"elements": [
 		{

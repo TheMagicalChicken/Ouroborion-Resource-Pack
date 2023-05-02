@@ -1,8 +1,8 @@
 {
 	"credit": "Made by samus2002",
 	"textures": {
-		"0": "archer_texture/icon_quick_shot",
-		"particle": "archer_texture/icon_quick_shot"
+		"0": "heroes/archer/icon_quick_shot",
+		"particle": "heroes/archer/icon_quick_shot"
 	},
 	"elements": [
 		{

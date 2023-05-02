@@ -1,0 +1,28 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "item/mobs/elitecreatures/thanatosreaper/skull_shield",
+		"particle": "item/mobs/elitecreatures/thanatosreaper/skull_shield"
+	},
+	"elements": [
+		{
+			"from": [-9.76, -9.76, 6],
+			"to": [25.76, 25.76, 6],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-9.76, -9.76, -7.32]},
+			"faces": {
+				"north": {"uv": [13.625, 0, 0, 12.375], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 13.625, 12.375], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 0], "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 0], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [1.75, 3.25, -13.25],
+			"scale": [4, 4, 4]
+		}
+	}
+}

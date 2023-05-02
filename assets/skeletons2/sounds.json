@@ -1,97 +1,97 @@
 {
  "custom.skeletons2.skeletonblock": {
   "sounds": [
-   "custom/skeletons2/skeletonblock"
+   "mobs/skeletons2/skeletonblock"
   ]
  },
  "custom.skeletons2.skeletonblockhit": {
   "sounds": [
-   "custom/skeletons2/skeletonblockhit"
+   "mobs/skeletons2/skeletonblockhit"
   ]
  },
  "custom.skeletons2.skeletonhit": {
   "sounds": [
-   "custom/skeletons2/skeletonhit"
+   "mobs/skeletons2/skeletonhit"
   ]
  },
  "custom.skeletons2.skeletonrangedhit": {
   "sounds": [
-   "custom/skeletons2/skeletonrangedhit"
+   "mobs/skeletons2/skeletonrangedhit"
   ]
  },
  "custom.skeletons2.skeletonchargedhit": {
   "sounds": [
-   "custom/skeletons2/skeletonchargedhit"
+   "mobs/skeletons2/skeletonchargedhit"
   ]
  },
  "custom.skeletons2.skeletondodge": {
   "sounds": [
-   "custom/skeletons2/skeletondodge"
+   "mobs/skeletons2/skeletondodge"
   ]
  },
  "custom.skeletons2.skeletonambi": {
   "sounds": [
-   "custom/skeletons2/skeletonambi"
+   "mobs/skeletons2/skeletonambi"
   ]
  },
  "custom.skeletons2.skeletonkingblast": {
   "sounds": [
-   "custom/skeletons2/skeletonkingblast"
+   "mobs/skeletons2/skeletonkingblast"
   ]
  },
  "custom.skeletons2.skeletonkingcharged": {
   "sounds": [
-   "custom/skeletons2/skeletonkingcharged"
+   "mobs/skeletons2/skeletonkingcharged"
   ]
  },
  "custom.skeletons2.skeletonkingcombo": {
   "sounds": [
-   "custom/skeletons2/skeletonkingcombo"
+   "mobs/skeletons2/skeletonkingcombo"
   ]
  },
  "custom.skeletons2.skeletonkingconsec": {
   "sounds": [
-   "custom/skeletons2/skeletonkingconsec"
+   "mobs/skeletons2/skeletonkingconsec"
   ]
  },
  "custom.skeletons2.skeletonkingdeath": {
   "sounds": [
-   "custom/skeletons2/skeletonkingdeath"
+   "mobs/skeletons2/skeletonkingdeath"
   ]
  },
  "custom.skeletons2.skeletonkingexplode": {
   "sounds": [
-   "custom/skeletons2/skeletonkingexplode"
+   "mobs/skeletons2/skeletonkingexplode"
   ]
  },
  "custom.skeletons2.skeletonkingmelee": {
   "sounds": [
-   "custom/skeletons2/skeletonkingmelee"
+   "mobs/skeletons2/skeletonkingmelee"
   ]
  },
  "custom.skeletons2.skeletonkingrise": {
   "sounds": [
-   "custom/skeletons2/skeletonkingrise"
+   "mobs/skeletons2/skeletonkingrise"
   ]
  },
  "custom.skeletons2.skeletonkingsmash": {
   "sounds": [
-   "custom/skeletons2/skeletonkingsmash"
+   "mobs/skeletons2/skeletonkingsmash"
   ]
  },
  "custom.skeletons2.skeletonkingundying": {
   "sounds": [
-   "custom/skeletons2/skeletonkingundying"
+   "mobs/skeletons2/skeletonkingundying"
   ]
  },
  "custom.skeletons2.skeletonkingwalk": {
   "sounds": [
-   "custom/skeletons2/skeletonkingwalk"
+   "mobs/skeletons2/skeletonkingwalk"
   ]
  },
  "custom.skeletons2.skeletondeath": {
   "sounds": [
-   "custom/skeletons2/skeletondeath"
+   "mobs/skeletons2/skeletondeath"
   ]
  }
 }

@@ -2,8 +2,8 @@
 	"credit": "Made by samus2002",
 	"texture_size": [128, 128],
 	"textures": {
-		"0": "warrior_texture/warrior_sword",
-		"particle": "warrior_texture/warrior_sword"
+		"0": "heroes/warrior/warrior_sword",
+		"particle": "heroes/warrior/warrior_sword"
 	},
 	"elements": [
 		{

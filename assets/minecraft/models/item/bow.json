@@ -47,12 +47,12 @@
             "model": "item/bow_pulling_2"
         },
     { 
-	"predicate": { "custom_model_data": 3000001 }, "model": "custom/elitecreatures/skeletons/skeletonecbow" },
+	"predicate": { "custom_model_data": 3000001 }, "model": "item/mob/elitecreatures/skeletons/skeletonecbow" },
     { 
-	"predicate": { "custom_model_data": 3000001, "pulling": 1 }, "model": "custom/elitecreatures/skeletons/skeletonecbowpull0" },
+	"predicate": { "custom_model_data": 3000001, "pulling": 1 }, "model": "item/mob/elitecreatures/skeletons/skeletonecbowpull0" },
     {
-        "predicate": { "custom_model_data": 3000001, "pulling": 1, "pull": 0.65 }, "model": "custom/elitecreatures/skeletons/skeletonecbowpull1" },
+        "predicate": { "custom_model_data": 3000001, "pulling": 1, "pull": 0.65 }, "model": "item/mob/elitecreatures/skeletons/skeletonecbowpull1" },
     {
-        "predicate": { "custom_model_data": 3000001, "pulling": 1, "pull": 0.9 }, "model": "custom/elitecreatures/skeletons/skeletonecbowpull2" }
+        "predicate": { "custom_model_data": 3000001, "pulling": 1, "pull": 0.9 }, "model": "item/mob/elitecreatures/skeletons/skeletonecbowpull2" }
     ]
 }

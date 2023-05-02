@@ -1,152 +1,64 @@
 {
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "item/coal"
-  },
-  "overrides": [
-    {
-      "predicate": {
-        "custom_model_data": 2034
-      },
-      "model": "heroes/assassin/icon_assassins_blade"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 2035
-      },
-      "model": "heroes/assassin/icon_blade_dance"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 2036
-      },
-      "model": "heroes/assassin/icon_blade_slash"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 2037
-      },
-      "model": "heroes/assassin/icon_dagger_throw"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 2038
-      },
-      "model": "heroes/assassin/icon_dash"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 2039
-      },
-      "model": "heroes/assassin/icon_shadow_walk"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 2052
-      },
-      "model": "heroes/warrior/icon_brutal_strike"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 2053
-      },
-      "model": "heroes/warrior/icon_chain_hook"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 2054
-      },
-      "model": "heroes/warrior/icon_charge"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 2055
-      },
-      "model": "heroes/warrior/icon_judgement"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 2056
-      },
-      "model": "heroes/warrior/icon_rampage"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 2057
-      },
-      "model": "heroes/warrior/icon_shield_barrier"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 2058
-      },
-      "model": "heroes/archer/icon_backstep"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 2059
-      },
-      "model": "heroes/archer/icon_deadly_javelin"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 2060
-      },
-      "model": "heroes/archer/icon_dragon_piercer"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 2061
-      },
-      "model": "heroes/archer/icon_hunters_focus"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 2062
-      },
-      "model": "heroes/archer/icon_quick_shot"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 2063
-      },
-      "model": "heroes/archer/icon_windrazor"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 2064
-      },
-      "model": "heroes/mage/icon_arcane_missile"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 2065
-      },
-      "model": "heroes/mage/icon_blink"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 2066
-      },
-      "model": "heroes/mage/icon_fireball"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 2067
-      },
-      "model": "heroes/mage/icon_frost_nova"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 2068
-      },
-      "model": "heroes/mage/icon_inferno_chains"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 2069
-      },
-      "model": "heroes/mage/icon_meteor"
-    }
-  ]
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/coal"
+    },	
+	"overrides": [
+		{"predicate": {"custom_model_data":2034}, "model": "heroes/assassin/icon_assassins_blade"},
+		{"predicate": {"custom_model_data":2035}, "model": "heroes/assassin/icon_blade_dance"},
+		{"predicate": {"custom_model_data":2036}, "model": "heroes/assassin/icon_blade_slash"},
+		{"predicate": {"custom_model_data":2037}, "model": "heroes/assassin/icon_dagger_throw"},
+		{"predicate": {"custom_model_data":2038}, "model": "heroes/assassin/icon_dash"},
+		{"predicate": {"custom_model_data":2039}, "model": "heroes/assassin/icon_shadow_walk"},
+		
+		{"predicate": {"custom_model_data":2040}, "model": "heroes/necromancer/icon_empower_minions"},
+		{"predicate": {"custom_model_data":2041}, "model": "heroes/necromancer/icon_eternal_flame"},
+		{"predicate": {"custom_model_data":2042}, "model": "heroes/necromancer/icon_eternal_wheel"},
+		{"predicate": {"custom_model_data":2043}, "model": "heroes/necromancer/icon_incarnation"},
+		{"predicate": {"custom_model_data":2044}, "model": "heroes/necromancer/icon_skeletal_minion"},
+		{"predicate": {"custom_model_data":2045}, "model": "heroes/necromancer/icon_will_o_wisp"},
+		
+		{"predicate": {"custom_model_data":2052}, "model": "heroes/warrior/icon_brutal_strike"},
+		{"predicate": {"custom_model_data":2053}, "model": "heroes/warrior/icon_chain_hook"},
+		{"predicate": {"custom_model_data":2054}, "model": "heroes/warrior/icon_charge"},
+		{"predicate": {"custom_model_data":2055}, "model": "heroes/warrior/icon_judgement"},
+		{"predicate": {"custom_model_data":2056}, "model": "heroes/warrior/icon_rampage"},
+		{"predicate": {"custom_model_data":2057}, "model": "heroes/warrior/icon_shield_barrier"},
+		
+		{"predicate": {"custom_model_data":2058}, "model": "heroes/archer/icon_backstep"},
+		{"predicate": {"custom_model_data":2059}, "model": "heroes/archer/icon_deadly_javelin"},
+		{"predicate": {"custom_model_data":2060}, "model": "heroes/archer/icon_dragon_piercer"},
+		{"predicate": {"custom_model_data":2061}, "model": "heroes/archer/icon_hunters_focus"},
+		{"predicate": {"custom_model_data":2062}, "model": "heroes/archer/icon_quick_shot"},
+		{"predicate": {"custom_model_data":2063}, "model": "heroes/archer/icon_windrazor"},
+		
+		{"predicate": {"custom_model_data":2064}, "model": "heroes/mage/icon_arcane_missile"},
+		{"predicate": {"custom_model_data":2065}, "model": "heroes/mage/icon_blink"},
+		{"predicate": {"custom_model_data":2066}, "model": "heroes/mage/icon_fireball"},
+		{"predicate": {"custom_model_data":2067}, "model": "heroes/mage/icon_frost_nova"},
+		{"predicate": {"custom_model_data":2068}, "model": "heroes/mage/icon_inferno_chains"},
+		{"predicate": {"custom_model_data":2069}, "model": "heroes/mage/icon_meteor"},
+		
+		{"predicate": {"custom_model_data":2082}, "model": "heroes/druid/icon_bear_form"},
+		{"predicate": {"custom_model_data":2083}, "model": "heroes/druid/icon_hawk_form"},
+		{"predicate": {"custom_model_data":2084}, "model": "heroes/druid/icon_healing_wisp"},
+		{"predicate": {"custom_model_data":2085}, "model": "heroes/druid/icon_poison_thorns"},
+		{"predicate": {"custom_model_data":2086}, "model": "heroes/druid/icon_vine_wave"},
+		{"predicate": {"custom_model_data":2087}, "model": "heroes/druid/icon_wolf_form"},
+		
+		{"predicate": {"custom_model_data":2094}, "model": "heroes/bard/icon_angelic_serenade"},
+		{"predicate": {"custom_model_data":2095}, "model": "heroes/bard/icon_rhapsody"},
+		{"predicate": {"custom_model_data":2096}, "model": "heroes/bard/icon_shield_of_harmony"},
+		{"predicate": {"custom_model_data":2097}, "model": "heroes/bard/icon_sound_wave"},
+		{"predicate": {"custom_model_data":2098}, "model": "heroes/bard/icon_symphony_of_destruction"},
+		{"predicate": {"custom_model_data":2099}, "model": "heroes/bard/icon_vibrative_strike"},
+		
+		{"predicate": {"custom_model_data":2113}, "model": "heroes/ninja_samurai/icon_blood_slash"},
+		{"predicate": {"custom_model_data":2114}, "model": "heroes/ninja_samurai/icon_death_charge"},
+		{"predicate": {"custom_model_data":2115}, "model": "heroes/ninja_samurai/icon_flow_state"},
+		{"predicate": {"custom_model_data":2116}, "model": "heroes/ninja_samurai/icon_forbidden_art"},
+		{"predicate": {"custom_model_data":2117}, "model": "heroes/ninja_samurai/icon_laceration"},
+		{"predicate": {"custom_model_data":2118}, "model": "heroes/ninja_samurai/icon_piercing_shuriken"},
+		{"predicate": {"custom_model_data":2119}, "model": "heroes/ninja_samurai/icon_smoke_bomb"}
+	]
 }

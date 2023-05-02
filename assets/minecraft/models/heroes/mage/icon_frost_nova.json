@@ -1,8 +1,8 @@
 {
 	"credit": "Made by samus2002",
 	"textures": {
-		"0": "mage_texture/icon_frost_nova",
-		"particle": "mage_texture/icon_frost_nova"
+		"0": "heroes/mage/icon_frost_nova",
+		"particle": "heroes/mage/icon_frost_nova"
 	},
 	"elements": [
 		{

@@ -1,8 +1,8 @@
 {
 	"credit": "Made by samus2002",
 	"textures": {
-		"0": "mage_texture/inferno_chains_3",
-		"particle": "mage_texture/inferno_chains_3"
+		"0": "heroes/mage/inferno_chains_3",
+		"particle": "heroes/mage/inferno_chains_3"
 	},
 	"elements": [
 		{

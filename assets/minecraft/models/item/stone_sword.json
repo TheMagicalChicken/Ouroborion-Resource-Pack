@@ -1,56 +1,24 @@
 {
-  "parent": "item/handheld",
-  "textures": {
-    "layer0": "item/stone_sword"
-  },
-  "overrides": [
-    {
-      "predicate": {
-        "custom_model_data": 2011
-      },
-      "model": "assassin_model/assassin_blade"
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/stone_sword"
     },
-    {
-      "predicate": {
-        "custom_model_data": 2012
-      },
-      "model": "assassin_model/assassin_blade_shiny"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 2017
-      },
-      "model": "warrior_model/warrior_sword"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 2018
-      },
-      "model": "warrior_model/warrior_sword_shiny"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 2019
-      },
-      "model": "archer_model/archer_bow"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 2020
-      },
-      "model": "archer_model/archer_bow_shiny"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 2021
-      },
-      "model": "mage_model/mage_staff"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 2022
-      },
-      "model": "mage_model/mage_staff_shiny"
-    }
-  ]
+	"overrides": [
+		{"predicate": {"custom_model_data":2011}, "model": "assassin_model/assassin_blade"},
+		{"predicate": {"custom_model_data":2012}, "model": "assassin_model/assassin_blade_shiny"},
+		{"predicate": {"custom_model_data":2013}, "model": "heroes/necromancer/necromancer_staff"},
+		{"predicate": {"custom_model_data":2014}, "model": "heroes/necromancer/necromancer_staff_shiny"},
+		{"predicate": {"custom_model_data":2017}, "model": "heroes/warrior/warrior_sword"},
+		{"predicate": {"custom_model_data":2018}, "model": "heroes/warrior/warrior_sword_shiny"},
+		{"predicate": {"custom_model_data":2019}, "model": "heroes/archer/archer_bow"},
+		{"predicate": {"custom_model_data":2020}, "model": "heroes/archer/archer_bow_shiny"},
+		{"predicate": {"custom_model_data":2021}, "model": "heroes/mage/mage_staff"},
+		{"predicate": {"custom_model_data":2022}, "model": "heroes/mage/mage_staff_shiny"},
+		{"predicate": {"custom_model_data":2027}, "model": "heroes/druid/druid_staff"},
+		{"predicate": {"custom_model_data":2028}, "model": "heroes/druid/druid_staff_shiny"},
+		{"predicate": {"custom_model_data":2031}, "model": "heroes/bard/bard_harp"},
+		{"predicate": {"custom_model_data":2032}, "model": "heroes/bard/bard_harp_shiny"},
+		{"predicate": {"custom_model_data":2037}, "model": "heroes/ninja_samurai/ninja_samurai_katana"},
+		{"predicate": {"custom_model_data":2038}, "model": "heroes/ninja_samurai/ninja_samurai_katana_shiny"}		
+	]
 }

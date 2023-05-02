@@ -2,8 +2,8 @@
 	"credit": "Made by samus2002",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "mage_texture/arcane_missile",
-		"particle": "mage_texture/arcane_missile"
+		"0": "heroes/mage/arcane_missile",
+		"particle": "heroes/mage/arcane_missile"
 	},
 	"elements": [
 		{

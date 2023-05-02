@@ -1,8 +1,8 @@
 {
 	"credit": "Made by samus2002",
 	"textures": {
-		"0": "mage_texture/blink3",
-		"particle": "mage_texture/blink3"
+		"0": "heroes/mage/blink3",
+		"particle": "heroes/mage/blink3"
 	},
 	"elements": [
 		{

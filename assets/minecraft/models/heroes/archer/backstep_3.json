@@ -1,8 +1,8 @@
 {
 	"credit": "Made by samus2002",
 	"textures": {
-		"0": "archer_texture/backstep3",
-		"particle": "archer_texture/backstep3"
+		"0": "heroes/archer/backstep3",
+		"particle": "heroes/archer/backstep3"
 	},
 	"elements": [
 		{

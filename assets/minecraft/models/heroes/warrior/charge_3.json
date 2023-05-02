@@ -1,8 +1,8 @@
 {
 	"credit": "Made by samus2002",
 	"textures": {
-		"0": "warrior_texture/charge3",
-		"particle": "warrior_texture/charge3"
+		"0": "heroes/warrior/charge3",
+		"particle": "heroes/warrior/charge3"
 	},
 	"elements": [
 		{

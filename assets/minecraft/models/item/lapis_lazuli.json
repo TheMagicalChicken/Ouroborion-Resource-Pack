@@ -5,11 +5,11 @@
 	},
 	
 	"overrides": [
-		{"predicate": {"custom_model_data":3000001}, "model": "custom/elitecreatures/skeletons/iceball"},
-		{"predicate": {"custom_model_data":3000002}, "model": "custom/elitecreatures/skeletons/chillspell"},
-		{"predicate": {"custom_model_data":3000003}, "model": "custom/elitecreatures/skeletons/circleground"},
-		{"predicate": {"custom_model_data":3000004}, "model": "custom/elitecreatures/skeletons/circlefront"},
-		{"predicate": {"custom_model_data":3000005}, "model": "custom/elitecreatures/skeletons/circlefrontbig"},
-		{"predicate": {"custom_model_data":3000006}, "model": "custom/elitecreatures/skeletons/skeletonkey"}
+		{"predicate": {"item/mob_model_data":3000001}, "model": "item/mob/elitecreatures/skeletons/iceball"},
+		{"predicate": {"item/mob_model_data":3000002}, "model": "item/mob/elitecreatures/skeletons/chillspell"},
+		{"predicate": {"item/mob_model_data":3000003}, "model": "item/mob/elitecreatures/skeletons/circleground"},
+		{"predicate": {"item/mob_model_data":3000004}, "model": "item/mob/elitecreatures/skeletons/circlefront"},
+		{"predicate": {"item/mob_model_data":3000005}, "model": "item/mob/elitecreatures/skeletons/circlefrontbig"},
+		{"predicate": {"item/mob_model_data":3000006}, "model": "item/mob/elitecreatures/skeletons/skeletonkey"}
 	]
 }

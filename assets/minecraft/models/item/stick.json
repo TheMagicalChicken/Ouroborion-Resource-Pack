@@ -5,6 +5,6 @@
 	},
 	
 	"overrides": [
-		{"predicate": {"custom_model_data":5000}, "model": "item/boss/wolf/wolfmob39item1"}
+		{"predicate": {"custom_model_data":5000}, "model": "item/mobs/wolf/wolfmob39item1"}
 	]
 }

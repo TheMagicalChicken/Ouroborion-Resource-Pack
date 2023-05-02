@@ -1,0 +1,13 @@
+{ "custom.forgottenterrors.slashhita": { "category": "hostile", "sounds": [ { "name": "mobs/fallenhero/slashhit1" }, { "name": "mobs/fallenhero/slashhit2" }, { "name": "mobs/fallenhero/slashhit3" } ] }, 
+"custom.forgottenterrors.slashhitb": { "category": "hostile", "sounds": [ { "name": "mobs/fallenhero/slashhitb1" }, { "name": "mobs/fallenhero/slashhitb2" }, { "name": "mobs/fallenhero/slashhitb3" } ] }, 
+"custom.forgottenterrors.herostun": { "category": "hostile", "sounds": [ { "name": "custom/spell/fallenhero/stun1" }, { "name": "custom/spell/fallenhero/stun2" } ], "subtitle": "Corrupted attack" }, 
+"custom.forgottenterrors.channelstun": { "category": "hostile", "sounds": [ { "name": "custom/spell/fallenhero/channelstun" } ] }, 
+"custom.forgottenterrors.attackwindup": { "category": "hostile", "sounds": [ { "name": "mobs/fallenhero/attackwindup1" }, { "name": "mobs/fallenhero/attackwindup2" }, { "name": "mobs/fallenhero/attackwindup3" }, { "name": "mobs/fallenhero/attackwindup4" } ], "subtitle": "Strong blow", "attenuation_distance": "0.8"  }, 
+"custom.forgottenterrors.landshockwave": { "category": "hostile", "sounds": [ { "name": "custom/spell/fallenhero/landshockwave1" }, { "name": "custom/spell/fallenhero/landshockwave2" }, { "name": "custom/spell/fallenhero/landshockwave3" } ], "subtitle": "Shockwave" }, 
+
+"custom.forgottenterrors.hurt": { "category": "hostile", "sounds": [ { "name": "mobs/fallenreaper/hurtgen1" }, { "name": "mobs/fallenreaper/hurtgen2" }, { "name": "mobs/fallenreaper/hurtgen3" } ], "subtitle": "Corrupted voices cry" }, 
+"custom.forgottenterrors.attack4reaper": { "category": "hostile", "sounds": [ { "name": "custom/spell/fallenreaper/attack4reaper1" }, { "name": "custom/spell/fallenhero/attack4reaper2" }, { "name": "custom/spell/fallenhero/attack4reaper3" } ], "subtitle": "Strong swing" }, 
+"custom.forgottenterrors.grandslashcast": { "category": "hostile", "sounds": [ { "name": "custom/spell/fallenhero/granslashcast1" }, { "name": "custom/spell/fallenhero/granslashcast2" } ] }, 
+
+"custom.forgottenterrors.gritus": { "category": "hostile", "sounds": [ { "name": "mobs/fallensoldier/gritus1" }, { "name": "mobs/fallensoldier/gritus2" } ], "subtitle": "Lost souls cry" }
+}

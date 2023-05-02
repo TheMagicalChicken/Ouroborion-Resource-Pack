@@ -2,8 +2,8 @@
 	"credit": "Made by samus2002",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "warrior_texture/chain_hook",
-		"particle": "warrior_texture/chain_hook"
+		"0": "heroes/warrior/chain_hook",
+		"particle": "heroes/warrior/chain_hook"
 	},
 	"elements": [
 		{

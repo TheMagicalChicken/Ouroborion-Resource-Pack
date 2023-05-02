@@ -1,0 +1,87 @@
+{
+ "custom.thanatosreaper.combo": {
+  "sounds": [
+   "mobs/thanatosreaper/combo"
+  ]
+ },
+ "custom.thanatosreaper.doppelganger": {
+  "sounds": [
+   "mobs/thanatosreaper/doppelganger"
+  ]
+ },
+ "custom.thanatosreaper.flycombo": {
+  "sounds": [
+   "mobs/thanatosreaper/flycombo"
+  ]
+ },
+ "custom.thanatosreaper.lifeleech": {
+  "sounds": [
+   "mobs/thanatosreaper/lifeleech"
+  ]
+ },
+ "custom.thanatosreaper.markofdeath": {
+  "sounds": [
+   "mobs/thanatosreaper/markofdeath"
+  ]
+ },
+ "custom.thanatosreaper.painlink": {
+  "sounds": [
+   "mobs/thanatosreaper/painlink"
+  ]
+ },
+ "custom.thanatosreaper.slash": {
+  "sounds": [
+   "mobs/thanatosreaper/slash"
+  ]
+ },
+ "custom.thanatosreaper.waiting": {
+  "sounds": [
+   "mobs/thanatosreaper/waiting"
+  ]
+ },
+ "custom.thanatosreaper.walking": {
+  "sounds": [
+   "mobs/thanatosreaper/walking"
+  ]
+ },
+ "custom.thanatosreaper.blindinglight": {
+  "sounds": [
+   "mobs/thanatosreaper/blindinglight"
+  ]
+ },
+ "custom.thanatosreaper.blindinglightair": {
+  "sounds": [
+   "mobs/thanatosreaper/blindinglightair"
+  ]
+ },
+ "custom.thanatosreaper.blindinglightstart": {
+  "sounds": [
+   "mobs/thanatosreaper/blindinglightstart"
+  ]
+ },
+ "custom.thanatosreaper.dying": {
+  "sounds": [
+   "mobs/thanatosreaper/dying"
+  ]
+ },
+ "custom.thanatosreaper.finish": {
+  "sounds": [
+   "mobs/thanatosreaper/finish"
+  ]
+ },
+ "custom.thanatosreaper.skullmissile": {
+  "sounds": [
+   "mobs/thanatosreaper/skullmissile"
+  ]
+ },
+ "custom.thanatosreaper.swoop": {
+  "sounds": [
+   "mobs/thanatosreaper/swoop"
+  ]
+ },
+ "custom.thanatosreaper.wingshield": {
+  "sounds": [
+   "mobs/thanatosreaper/wingshield"
+  ]
+ }
+}

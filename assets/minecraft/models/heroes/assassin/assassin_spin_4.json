@@ -1,8 +1,8 @@
 {
 	"credit": "Made by samus2002",
 	"textures": {
-		"0": "assassin_texture/assassin_spin4",
-		"particle": "assassin_texture/assassin_spin4"
+		"0": "heroes/assassin/assassin_spin4",
+		"particle": "heroes/assassin/assassin_spin4"
 	},
 	"elements": [
 		{

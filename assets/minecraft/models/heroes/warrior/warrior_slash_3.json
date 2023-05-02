@@ -1,9 +1,9 @@
 {
 	"credit": "Made by samus2002",
 	"textures": {
-		"0": "warrior_texture/warrior_slash3",
-		"1": "warrior_texture/warrior_slash3_2",
-		"particle": "warrior_texture/warrior_slash3"
+		"0": "heroes/warrior/warrior_slash3",
+		"1": "heroes/warrior/warrior_slash3_2",
+		"particle": "heroes/warrior/warrior_slash3"
 	},
 	"elements": [
 		{
