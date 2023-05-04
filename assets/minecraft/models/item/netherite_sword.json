@@ -7,7 +7,7 @@
 		{ "predicate": { "custom_model_data": 5000}, "model": "item/mobs/wolf/wolfmob39item2" },
 		{ "predicate": { "custom_model_data": 5001}, "model": "item/mobs/tlaloc/tlaloc_staff" },
 		{ "predicate": { "custom_model_data": 5002}, "model": "item/mobs/ouldhana/ouldhana_sword" },
-		{ "predicate": { "custom_model_data":3000001}, "model": "item/mobs/elitecreatures/skeletons/skeletonecspear"},
-		{ "predicate": { "custom_model_data":3000002}, "model": "item/mobs/elitecreatures/skeletons/skeletonecsword"}
+		{ "predicate": { "custom_model_data": 3000001}, "model": "item/mobs/elitecreatures/skeletons/skeletonecspear"},
+		{ "predicate": { "custom_model_data": 3000002}, "model": "item/mobs/elitecreatures/skeletons/skeletonecsword"}
 	]
 }

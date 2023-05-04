@@ -3,7 +3,7 @@
 		{"source":"entity", "prefix":"entity/", "type":"directory"},
 		
 		{"source":"heroes/archer", 			"prefix":"heroes/archer/", 			"type":"directory"},
-		{"source":"heroes/assasin", 		"prefix":"heroes/assasin/", 		"type":"directory"},
+		{"source":"heroes/assassin", 		"prefix":"heroes/assassin/", 		"type":"directory"},
 		{"source":"heroes/bard", 			"prefix":"heroes/bard/", 			"type":"directory"},
 		{"source":"heroes/druid", 			"prefix":"heroes/druid/", 			"type":"directory"},
 		{"source":"heroes/mage", 			"prefix":"heroes/mage/", 			"type":"directory"},
