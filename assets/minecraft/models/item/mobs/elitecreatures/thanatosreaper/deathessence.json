@@ -1,0 +1,91 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [24, 24],
+	"textures": {
+		"1": "item/mobs/elitecreatures/thanatosreaper/wisp_effect"
+	},
+	"elements": [
+		{
+			"from": [4.25, 0.5, 8],
+			"to": [12.25, 10.5, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 5.25, 8]},
+			"faces": {
+				"north": {"uv": [0, 11.46667, 3.4, 16], "texture": "#1"},
+				"south": {"uv": [0, 11.46667, 3.4, 16], "texture": "#1"}
+			}
+		},
+		{
+			"from": [1.57448, 3.33192, 2.5],
+			"to": [12.57448, 3.33192, 13.5],
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [8, 5.36742, 8]},
+			"faces": {
+				"up": {"uv": [5.6, 10, 16, 0], "texture": "#1"},
+				"down": {"uv": [16, 10, 5.6, 0], "texture": "#1"}
+			}
+		},
+		{
+			"from": [3.42552, 3.33192, 2.5],
+			"to": [14.42552, 3.33192, 13.5],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [8, 5.36742, 8]},
+			"faces": {
+				"up": {"uv": [16, 10, 5.6, 0], "texture": "#1"},
+				"down": {"uv": [5.6, 10, 16, 0], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 6.25, 0]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 6.25, 0]
+		},
+		"firstperson_righthand": {
+			"translation": [0, 8, 0]
+		},
+		"firstperson_lefthand": {
+			"translation": [0, 8, 0]
+		},
+		"ground": {
+			"translation": [0, 11.75, 0],
+			"scale": [2, 2, 2]
+		},
+		"gui": {
+			"rotation": [17.5, 0, 0],
+			"translation": [0, 3.25, 0],
+			"scale": [1.2, 1.2, 1.2]
+		},
+		"head": {
+			"translation": [0, -6, -0.25],
+			"scale": [3.5, 3.5, 3.5]
+		},
+		"fixed": {
+			"translation": [-0.75, 7, -3],
+			"scale": [2, 2, 2]
+		}
+	},
+	"groups": [
+		{
+			"name": "root",
+			"origin": [8, 10.75, 8],
+			"color": 0,
+			"boneType": "",
+			"children": [
+				{
+					"name": "head",
+					"origin": [7, 5.75, 8.75],
+					"color": 0,
+					"boneType": "",
+					"children": [0]
+				},
+				{
+					"name": "body",
+					"origin": [9, 2.75, 9],
+					"color": 0,
+					"boneType": "",
+					"children": [1, 2]
+				}
+			]
+		}
+	]
+}

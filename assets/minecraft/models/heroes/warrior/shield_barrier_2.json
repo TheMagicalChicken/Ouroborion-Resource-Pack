@@ -2,8 +2,8 @@
 	"credit": "Made by samus2002",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "warrior_texture/shield_barrier_2",
-		"particle": "warrior_texture/shield_barrier_2"
+		"0": "heroes/warrior/shield_barrier_2",
+		"particle": "heroes/warrior/shield_barrier_2"
 	},
 	"elements": [
 		{

@@ -1,9 +1,9 @@
 {
 	"credit": "Made by samus2002",
 	"textures": {
-		"0": "warrior_texture/whirlwind5",
-		"1": "warrior_texture/whirlwind5_2",
-		"particle": "warrior_texture/whirlwind5"
+		"0": "heroes/warrior/whirlwind5",
+		"1": "heroes/warrior/whirlwind5_2",
+		"particle": "heroes/warrior/whirlwind5"
 	},
 	"elements": [
 		{

@@ -4,6 +4,6 @@
         "layer0": "item/lantern"
     },
 	"overrides": [
-		{"predicate": {"custom_model_data":5000}, "model": "item/boss/wolf/wolfmob39item3"}
+		{"predicate": {"custom_model_data":5000}, "model": "item/mobs/wolf/wolfmob39item3"}
 	]
 }

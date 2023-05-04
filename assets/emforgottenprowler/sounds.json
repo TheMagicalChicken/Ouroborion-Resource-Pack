@@ -1,0 +1,13 @@
+{ "custom.corruptedprowler.idle": { "category": "hostile", "sounds": [ { "name": "mobs/corruptedprowler/idle1" }, { "name": "mobs/corruptedprowler/idle2" }, { "name": "mobs/corruptedprowler/idle3" } ], "subtitle": "Corrupted one growls" }, 
+"custom.corruptedprowler.death": { "category": "hostile", "sounds": [ { "name": "mobs/corruptedprowler/death1" }, { "name": "mobs/corruptedprowler/death2" } ], "subtitle": "Corrupted being dies" }, 
+
+"custom.corruptedprowler.efforta": { "category": "hostile", "sounds": [ { "name": "mobs/corruptedprowler/efforta1" }, { "name": "mobs/corruptedprowler/efforta2" }, { "name": "mobs/corruptedprowler/efforta3" } ], "subtitle": "Corrupted voice efforts" },
+"custom.corruptedprowler.effortb": { "category": "hostile", "sounds": [ { "name": "mobs/corruptedprowler/effortb1" }, { "name": "mobs/corruptedprowler/effortb2" }, { "name": "mobs/corruptedprowler/effortb3" } ], "subtitle": "Corrupted voice efforts" },
+
+"custom.corruptedprowler.rage": { "category": "hostile", "sounds": [ { "name": "mobs/corruptedprowler/rage1" }, { "name": "mobs/corruptedprowler/rage2" }, { "name": "mobs/corruptedprowler/rage3" } ], "subtitle": "Corrupted rage screams" }, 
+"custom.corruptedprowler.frenzy": { "category": "hostile", "sounds": [ { "name": "mobs/corruptedprowler/frenzy1" }, { "name": "mobs/corruptedprowler/frenzy2" } ], "subtitle": "Corrupted frenzy" }, 
+
+"custom.corruptedprowler.hurt": { "category": "hostile", "sounds": [ { "name": "mobs/corruptedprowler/hurt1" }, { "name": "mobs/corruptedprowler/hurt2" }, { "name": "mobs/corruptedprowler/hurt3" } ], "subtitle": "Corrupted being hurt" }, 
+"custom.corruptedprowler.hurtedbad": { "category": "hostile", "sounds": [ { "name": "mobs/corruptedprowler/hurtedbad1" }, { "name": "mobs/corruptedprowler/hurtedbad2" }, { "name": "mobs/corruptedprowler/hurtedbad3" } ], "subtitle": "Pain screams" }
+
+}

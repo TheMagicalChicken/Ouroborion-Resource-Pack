@@ -2,9 +2,9 @@
 	"credit": "Made by samus2002",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "mage_texture/fireball",
-		"1": "mage_texture/fireball_a",
-		"particle": "mage_texture/fireball"
+		"0": "heroes/mage/fireball",
+		"1": "heroes/mage/fireball_a",
+		"particle": "heroes/mage/fireball"
 	},
 	"elements": [
 		{

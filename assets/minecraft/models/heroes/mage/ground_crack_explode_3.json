@@ -2,8 +2,8 @@
 	"credit": "Made by samus2002",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "mage_texture/ground_crack_explode_3",
-		"particle": "mage_texture/ground_crack_explode_3"
+		"0": "heroes/mage/ground_crack_explode_3",
+		"particle": "heroes/mage/ground_crack_explode_3"
 	},
 	"elements": [
 		{

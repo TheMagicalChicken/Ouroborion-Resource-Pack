@@ -2,8 +2,8 @@
 	"credit": "Made by samus2002",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "archer_texture/hunters_focus_2",
-		"particle": "archer_texture/hunters_focus_2"
+		"0": "heroes/archer/hunters_focus_2",
+		"particle": "heroes/archer/hunters_focus_2"
 	},
 	"elements": [
 		{

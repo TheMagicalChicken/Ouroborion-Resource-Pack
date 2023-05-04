@@ -1,0 +1,16 @@
+{ "custom.corruptedpuker.idle": { "category": "hostile", "sounds": [ { "name": "mobs/corruptedpuker/idle1" }, { "name": "mobs/corruptedpuker/idle2" }, { "name": "mobs/corruptedpuker/idle3" } ], "subtitle": "Corrupted one growls" }, 
+"custom.corruptedpuker.death": { "category": "hostile", "sounds": [ { "name": "mobs/corruptedpuker/death1" }, { "name": "mobs/corruptedpuker/death2" }, { "name": "mobs/corruptedpuker/death3" } ], "subtitle": "Corrupted being dies" }, 
+
+"custom.corruptedpuker.cpvomit": { "category": "hostile", "sounds": [ { "name": "mobs/corruptedpuker/cpvomit1" } ], "subtitle": "Acid vomit" }, 
+"custom.corruptedpuker.cpacidcast": { "category": "hostile", "sounds": [ { "name": "mobs/corruptedpuker/cpacidcast1" }, { "name": "mobs/corruptedpuker/cpacidcast2" } ], "subtitle": "Acid attack" }, 
+"custom.corruptedpuker.cpacid_hit": { "category": "hostile", "sounds": [ { "name": "mobs/corruptedpuker/cpacid_hit1" }, { "name": "mobs/corruptedpuker/cpacid_hit2" } ], "subtitle": "Acid corrosion" }, 
+"custom.corruptedpuker.corrosionhit": { "category": "hostile", "sounds": [ { "name": "mobs/corruptedpuker/cpcorrosion_hit1" } ], "subtitle": "Acid corrosion" }, 
+
+"custom.corruptedpuker.puke_throw": { "category": "hostile", "sounds": [ { "name": "mobs/corruptedpuker/puke_charge1" }, { "name": "mobs/corruptedpuker/puke_charge2" }, { "name": "mobs/corruptedpuker/puke_charge3" } ], "subtitle": "Acid projectile cast" }, 
+"custom.corruptedpuker.puke_charge": { "category": "hostile", "sounds": [ { "name": "mobs/corruptedpuker/puke_charge1" }, { "name": "mobs/corruptedpuker/puke_charge2" }, { "name": "mobs/corruptedpuker/puke_charge3" } ], "subtitle": "Gargling noises" }, 
+"custom.corruptedpuker.vomit": { "category": "hostile", "sounds": [ { "name": "mobs/corruptedpuker/vomit1" }, { "name": "mobs/corruptedpuker/vomit2" }, { "name": "mobs/corruptedpuker/vomit3" } ], "subtitle": "Vomiting noises" }, 
+
+"custom.corruptedpuker.hurt": { "category": "hostile", "sounds": [ { "name": "mobs/corruptedpuker/hurt1" }, { "name": "mobs/corruptedpuker/hurt2" }, { "name": "mobs/corruptedpuker/hurt3" } ], "subtitle": "Corrupted being hurt" }, 
+"custom.corruptedpuker.hurtedbad": { "category": "hostile", "sounds": [ { "name": "mobs/corruptedpuker/hurtedbad1" }, { "name": "mobs/corruptedpuker/hurtedbad2" }, { "name": "mobs/corruptedpuker/hurtedbad3" } ], "subtitle": "Pain screams" }
+
+}

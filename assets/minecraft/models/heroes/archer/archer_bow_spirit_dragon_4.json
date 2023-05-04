@@ -2,8 +2,8 @@
 	"credit": "Made by samus2002",
 	"texture_size": [128, 128],
 	"textures": {
-		"0": "archer_texture/archer_bow_spirit_dragon_4",
-		"particle": "archer_texture/archer_bow_spirit_dragon_4"
+		"0": "heroes/archer/archer_bow_spirit_dragon_4",
+		"particle": "heroes/archer/archer_bow_spirit_dragon_4"
 	},
 	"elements": [
 		{

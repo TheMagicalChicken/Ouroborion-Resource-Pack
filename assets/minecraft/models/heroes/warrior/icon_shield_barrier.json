@@ -1,8 +1,8 @@
 {
 	"credit": "Made by samus2002",
 	"textures": {
-		"0": "warrior_texture/icon_shield_barrier",
-		"particle": "warrior_texture/icon_shield_barrier"
+		"0": "heroes/warrior/icon_shield_barrier",
+		"particle": "heroes/warrior/icon_shield_barrier"
 	},
 	"elements": [
 		{

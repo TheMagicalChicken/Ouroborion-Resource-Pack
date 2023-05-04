@@ -2,8 +2,8 @@
 	"credit": "Made by samus2002",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "mage_texture/mage_staff",
-		"particle": "mage_texture/mage_staff"
+		"0": "heroes/mage/mage_staff",
+		"particle": "heroes/mage/mage_staff"
 	},
 	"elements": [
 		{

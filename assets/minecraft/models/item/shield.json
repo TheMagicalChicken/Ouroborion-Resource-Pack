@@ -42,9 +42,9 @@
     },
     "overrides": [
         { "predicate": { "blocking": 1 }, "model": "item/shield" },
-		{ "predicate": {"custom_model_data":3000001}, "model":"custom/elitecreatures/skeletons/spearmanshield"},
-		{ "predicate": {"custom_model_data":3000001, "blocking": 1}, "model":"custom/elitecreatures/skeletons/spearmanshieldblocking"},
-		{ "predicate": {"custom_model_data":3000002}, "model":"custom/elitecreatures/skeletons/swordsmanshield"},
-		{ "predicate": {"custom_model_data":3000002, "blocking": 1}, "model":"custom/elitecreatures/skeletons/swordsmanshieldblocking"}
+		{ "predicate": {"custom_model_data":3000001}, "model":"item/mobs/elitecreatures/skeletons/spearmanshield"},
+		{ "predicate": {"custom_model_data":3000001, "blocking": 1}, "model":"item/mobs/elitecreatures/skeletons/spearmanshieldblocking"},
+		{ "predicate": {"custom_model_data":3000002}, "model":"item/mobs/elitecreatures/skeletons/swordsmanshield"},
+		{ "predicate": {"custom_model_data":3000002, "blocking": 1}, "model":"item/mobs/elitecreatures/skeletons/swordsmanshieldblocking"}
     ]
 }

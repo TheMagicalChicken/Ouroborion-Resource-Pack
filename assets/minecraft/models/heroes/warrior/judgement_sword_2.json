@@ -2,8 +2,8 @@
 	"credit": "Made by samus2002",
 	"texture_size": [128, 128],
 	"textures": {
-		"0": "warrior_texture/judgement_sword_2",
-		"particle": "warrior_texture/judgement_sword_2"
+		"0": "heroes/warrior/judgement_sword_2",
+		"particle": "heroes/warrior/judgement_sword_2"
 	},
 	"elements": [
 		{

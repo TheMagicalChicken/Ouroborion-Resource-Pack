@@ -1,8 +1,8 @@
 {
 	"credit": "Made by samus2002",
 	"textures": {
-		"0": "archer_texture/icon_dragon_piercer",
-		"particle": "archer_texture/icon_dragon_piercer"
+		"0": "heroes/archer/icon_dragon_piercer",
+		"particle": "heroes/archer/icon_dragon_piercer"
 	},
 	"elements": [
 		{

@@ -1,8 +1,8 @@
 {
 	"credit": "Made by samus2002",
 	"textures": {
-		"0": "assassin_texture/icon_dagger_throw",
-		"particle": "assassin_texture/icon_dagger_throw"
+		"0": "heroes/assassin/icon_dagger_throw",
+		"particle": "heroes/assassin/icon_dagger_throw"
 	},
 	"elements": [
 		{

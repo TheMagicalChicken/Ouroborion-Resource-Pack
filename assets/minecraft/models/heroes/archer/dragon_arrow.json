@@ -2,8 +2,8 @@
 	"credit": "Made by samus2002",
 	"texture_size": [128, 128],
 	"textures": {
-		"0": "archer_texture/dragon_arrow",
-		"particle": "archer_texture/dragon_arrow"
+		"0": "heroes/archer/dragon_arrow",
+		"particle": "heroes/archer/dragon_arrow"
 	},
 	"elements": [
 		{

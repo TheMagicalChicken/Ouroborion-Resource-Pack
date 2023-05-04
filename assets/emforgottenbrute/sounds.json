@@ -1,0 +1,17 @@
+{ "custom.corruptedbrute.xd": { "category": "hostile", "sounds": [ { "name": "mobs/corruptedbrute/idle1" } ], "subtitle": "Armor resonates" }, 
+"custom.corruptedbrute.idle": { "category": "hostile", "sounds": [ { "name": "mobs/corruptedbrute/idle1" }, { "name": "mobs/corruptedbrute/idle2" }, { "name": "mobs/corruptedbrute/idle3" }, { "name": "mobs/corruptedbrute/idle4" } ], "subtitle": "Corrupted one growls" }, 
+"custom.corruptedbrute.countertacked": { "category": "hostile", "sounds": [ { "name": "mobs/corruptedbrute/countertacked1" }, { "name": "mobs/corruptedbrute/countertacked2" }, { "name": "mobs/corruptedbrute/countertacked3" } ], "subtitle": "Corrupted voice screams" }, 
+"custom.corruptedbrute.death": { "category": "hostile", "sounds": [ { "name": "mobs/corruptedbrute/death1" }, { "name": "mobs/corruptedbrute/death2" } ], "subtitle": "Corrupted being dies" }, 
+
+"custom.corruptedbrute.efforta": { "category": "hostile", "sounds": [ { "name": "mobs/corruptedbrute/efforta1" }, { "name": "mobs/corruptedbrute/efforta2" }, { "name": "mobs/corruptedbrute/efforta3" } ], "subtitle": "Corrupted voice efforts" },
+"custom.corruptedbrute.effortb": { "category": "hostile", "sounds": [ { "name": "mobs/corruptedbrute/effortb1" }, { "name": "mobs/corruptedbrute/effortb2" }, { "name": "mobs/corruptedbrute/effortb3" } ], "subtitle": "Corrupted voice efforts" },
+"custom.corruptedbrute.effortc": { "category": "hostile", "sounds": [ { "name": "mobs/corruptedbrute/effortc1" }, { "name": "mobs/corruptedbrute/effortc2" }, { "name": "mobs/corruptedbrute/effortc3" } ], "subtitle": "Corrupted voice efforts" },
+
+"custom.corruptedbrute.hurt": { "category": "hostile", "sounds": [ { "name": "mobs/corruptedbrute/hurt1" }, { "name": "mobs/corruptedbrute/hurt2" }, { "name": "mobs/corruptedbrute/hurt3" }, { "name": "mobs/corruptedbrute/hurt4" } ], "subtitle": "Corrupted being hurt" }, 
+"custom.corruptedbrute.hurtedbad": { "category": "hostile", "sounds": [ { "name": "mobs/corruptedbrute/hurtedbad1" }, { "name": "mobs/corruptedbrute/hurtedbad2" }, { "name": "mobs/corruptedbrute/hurtedbad3" } ], "subtitle": "Pain screams" }, 
+
+"custom.corruptedbrute.rage": { "category": "hostile", "sounds": [ { "name": "mobs/corruptedbrute/rage1" }, { "name": "mobs/corruptedbrute/rage2" }, { "name": "mobs/corruptedbrute/rage3" } ], "subtitle": "Corrupted rage screams" }, 
+"custom.corruptedbrute.frenzy": { "category": "hostile", "sounds": [ { "name": "mobs/corruptedbrute/frenzy1" }, { "name": "mobs/corruptedbrute/frenzy2" }, { "name": "mobs/corruptedbrute/frenzy3" } ], "subtitle": "Corrupted frenzy" }, 
+"custom.corruptedbrute.run_loop": { "category": "hostile", "sounds": [ { "name": "mobs/corruptedbrute/run_loop1" }, { "name": "mobs/corruptedbrute/run_loop2" }, { "name": "mobs/corruptedbrute/run_loop3" } ], "subtitle": "Corrupted voice pants" }
+
+}

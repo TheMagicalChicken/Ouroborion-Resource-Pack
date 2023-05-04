@@ -2,8 +2,8 @@
 	"credit": "Made by samus2002",
 	"texture_size": [128, 128],
 	"textures": {
-		"0": "archer_texture/quick_shot",
-		"particle": "archer_texture/quick_shot"
+		"0": "heroes/archer/quick_shot",
+		"particle": "heroes/archer/quick_shot"
 	},
 	"elements": [
 		{
