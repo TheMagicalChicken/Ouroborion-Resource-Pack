@@ -5,17 +5,17 @@
 	},
 	
 	"overrides": [
-		{"predicate": {"custom_model_data":2000001}, "model": "custom/elitecreatures/thanatosreaper/chain"},
-		{"predicate": {"custom_model_data":2000002}, "model": "custom/elitecreatures/thanatosreaper/hourglass"},
-		{"predicate": {"custom_model_data":2000003}, "model": "custom/elitecreatures/thanatosreaper/reaperslash1"},
-		{"predicate": {"custom_model_data":2000004}, "model": "custom/elitecreatures/thanatosreaper/reaperslash2"},
-		{"predicate": {"custom_model_data":2000005}, "model": "custom/elitecreatures/thanatosreaper/reaperslash3"},
-		{"predicate": {"custom_model_data":2000006}, "model": "custom/elitecreatures/thanatosreaper/spectral_skull"},
-		{"predicate": {"custom_model_data":2000007}, "model": "custom/elitecreatures/thanatosreaper/wisp"},
-		{"predicate": {"custom_model_data":2000008}, "model": "custom/elitecreatures/thanatosreaper/skullshield"},
-		{"predicate": {"custom_model_data":2000009}, "model": "custom/elitecreatures/thanatosreaper/angelfeathers"},
-		{"predicate": {"custom_model_data":2000010}, "model": "custom/elitecreatures/thanatosreaper/deathessence"},
-		{"predicate": {"custom_model_data":2000011}, "model": "custom/elitecreatures/thanatosreaper/reaperscythe"},
-		{"predicate": {"custom_model_data":2000012}, "model": "custom/elitecreatures/thanatosreaper/reapertrophy"}
+		{"predicate": {"custom_model_data":2000001}, "model": "item/mobs/elitecreatures/thanatosreaper/chain"},
+		{"predicate": {"custom_model_data":2000002}, "model": "item/mobs/elitecreatures/thanatosreaper/hourglass"},
+		{"predicate": {"custom_model_data":2000003}, "model": "item/mobs/elitecreatures/thanatosreaper/reaperslash1"},
+		{"predicate": {"custom_model_data":2000004}, "model": "item/mobs/elitecreatures/thanatosreaper/reaperslash2"},
+		{"predicate": {"custom_model_data":2000005}, "model": "item/mobs/elitecreatures/thanatosreaper/reaperslash3"},
+		{"predicate": {"custom_model_data":2000006}, "model": "item/mobs/elitecreatures/thanatosreaper/spectral_skull"},
+		{"predicate": {"custom_model_data":2000007}, "model": "item/mobs/elitecreatures/thanatosreaper/wisp"},
+		{"predicate": {"custom_model_data":2000008}, "model": "item/mobs/elitecreatures/thanatosreaper/skullshield"},
+		{"predicate": {"custom_model_data":2000009}, "model": "item/mobs/elitecreatures/thanatosreaper/angelfeathers"},
+		{"predicate": {"custom_model_data":2000010}, "model": "item/mobs/elitecreatures/thanatosreaper/deathessence"},
+		{"predicate": {"custom_model_data":2000011}, "model": "item/mobs/elitecreatures/thanatosreaper/reaperscythe"},
+		{"predicate": {"custom_model_data":2000012}, "model": "item/mobs/elitecreatures/thanatosreaper/reapertrophy"}
 	]
 }
