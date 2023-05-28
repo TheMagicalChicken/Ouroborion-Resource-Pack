@@ -1,0 +1,43 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/instrument/bagpipes"
+  },
+  "display": {
+        "thirdperson_righthand": {
+            "rotation": [ 30, -50, 20],
+            "translation": [ 0, 1, 9],
+            "scale": [ 1.8, 1.8, 0.9 ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [ 30, 130, -20],
+            "translation": [ 0, 1, 9],
+            "scale": [ 1.8, 1.8, 0.9 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ -25,-50,0],
+            "translation": [  9, 9, 1],
+            "scale": [ 1.8, 1.8, 0.9 ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ -25,130,0],
+            "translation": [ 5, 9, 0],
+            "scale": [ 1.8, 1.8, 0.9]
+        },
+		"gui": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 4.5, 4.5, 0 ],
+            "scale": [ 1.6, 1.6, 1 ]
+        },
+        "fixed": {
+            "rotation": [ 0, 180, 0 ],
+            "translation": [ -6, 6, 0 ],
+            "scale": [ 2, 2 , 1 ]
+        },
+        "ground": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 4.5, 4.5, 0 ],
+            "scale":[ 1, 1, 0.5]
+        }
+    }
+}
