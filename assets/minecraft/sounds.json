@@ -1,0 +1,8 @@
+{
+  "custom.whistle": {
+    "category": "player",
+    "sounds": [
+      "custom/whistle"
+    ]
+  }
+}
