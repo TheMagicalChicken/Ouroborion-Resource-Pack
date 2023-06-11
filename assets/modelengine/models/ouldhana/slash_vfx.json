@@ -1,1 +1,54 @@
-{"textures":{"1":"modelengine:entity/ouldhana_vfx"},"elements":[{"from":[-5.7333326,11.672493,1.0697341],"to":[26.266668,11.792494,17.069735],"rotation":{"angle":0.0,"axis":"y","origin":[10.266666,11.732493,9.069735]},"faces":{"east":{"uv":[0.0,0.0,0.0,0.0625],"rotation":0,"texture":"#1","tintindex":0},"south":{"uv":[0.0,0.0,0.0,0.0625],"rotation":0,"texture":"#1","tintindex":0},"north":{"uv":[0.0,0.0,0.0,0.0625],"rotation":0,"texture":"#1","tintindex":0},"west":{"uv":[0.0,0.0,0.0,0.0625],"rotation":0,"texture":"#1","tintindex":0},"up":{"uv":[0.0,8.048448,3.9708076,16.0],"rotation":90,"texture":"#1","tintindex":0},"down":{"uv":[0.0,16.0,3.9708076,8.048448],"rotation":270,"texture":"#1","tintindex":0}}},{"from":[-12.533333,7.6750135,-2.1394682],"to":[19.466667,7.7950134,13.860532],"rotation":{"angle":0.0,"axis":"y","origin":[3.4666667,7.7350135,5.860532]},"faces":{"east":{"uv":[0.0,0.0,0.0,0.0625],"rotation":0,"texture":"#1","tintindex":0},"south":{"uv":[0.0,0.0,0.0,0.0625],"rotation":0,"texture":"#1","tintindex":0},"north":{"uv":[0.0,0.0,0.0,0.0625],"rotation":0,"texture":"#1","tintindex":0},"west":{"uv":[0.0,0.0,0.0,0.0625],"rotation":0,"texture":"#1","tintindex":0},"up":{"uv":[0.0,8.048448,3.9708076,16.0],"rotation":90,"texture":"#1","tintindex":0},"down":{"uv":[0.0,16.0,3.9708076,8.048448],"rotation":270,"texture":"#1","tintindex":0}}},{"from":[-5.7333326,4.472493,1.0697341],"to":[26.266668,4.592493,17.069735],"rotation":{"angle":0.0,"axis":"y","origin":[10.266666,4.532493,9.069735]},"faces":{"east":{"uv":[0.0,0.0,0.0,0.0625],"rotation":0,"texture":"#1","tintindex":0},"south":{"uv":[0.0,0.0,0.0,0.0625],"rotation":0,"texture":"#1","tintindex":0},"north":{"uv":[0.0,0.0,0.0,0.0625],"rotation":0,"texture":"#1","tintindex":0},"west":{"uv":[0.0,0.0,0.0,0.0625],"rotation":0,"texture":"#1","tintindex":0},"up":{"uv":[0.0,8.048448,3.9708076,16.0],"rotation":90,"texture":"#1","tintindex":0},"down":{"uv":[0.0,16.0,3.9708076,8.048448],"rotation":270,"texture":"#1","tintindex":0}}}],"display":{"head":{"translation":[0.0,-6.4,0.0],"scale":[4.0,4.0,4.0]}}}
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [25, 25],
+	"textures": {
+		"1": "modelengine:entity/ouldhana_vfx"
+	},
+	"elements": [
+		{
+			"from": [-5.73333, 11.67249, 1.06973],
+			"to": [26.26667, 11.79249, 17.06974],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.26667, 11.73249, 9.06974]},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 0.04], "texture": "#1", "tintindex": 0},
+				"east": {"uv": [0, 0, 0, 0.04], "texture": "#1", "tintindex": 0},
+				"south": {"uv": [0, 0, 0, 0.04], "texture": "#1", "tintindex": 0},
+				"west": {"uv": [0, 0, 0, 0.04], "texture": "#1", "tintindex": 0},
+				"up": {"uv": [0, 5.15101, 2.54132, 10.24], "rotation": 90, "texture": "#1", "tintindex": 0},
+				"down": {"uv": [0, 10.24, 2.54132, 5.15101], "rotation": 270, "texture": "#1", "tintindex": 0}
+			}
+		},
+		{
+			"from": [-12.53333, 7.67501, -2.13947],
+			"to": [19.46667, 7.79501, 13.86053],
+			"rotation": {"angle": 0, "axis": "y", "origin": [3.46667, 7.73501, 5.86053]},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 0.04], "texture": "#1", "tintindex": 0},
+				"east": {"uv": [0, 0, 0, 0.04], "texture": "#1", "tintindex": 0},
+				"south": {"uv": [0, 0, 0, 0.04], "texture": "#1", "tintindex": 0},
+				"west": {"uv": [0, 0, 0, 0.04], "texture": "#1", "tintindex": 0},
+				"up": {"uv": [0, 5.15101, 2.54132, 10.24], "rotation": 90, "texture": "#1", "tintindex": 0},
+				"down": {"uv": [0, 10.24, 2.54132, 5.15101], "rotation": 270, "texture": "#1", "tintindex": 0}
+			}
+		},
+		{
+			"from": [-5.73333, 4.47249, 1.06973],
+			"to": [26.26667, 4.59249, 17.06974],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.26667, 4.53249, 9.06974]},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 0.04], "texture": "#1", "tintindex": 0},
+				"east": {"uv": [0, 0, 0, 0.04], "texture": "#1", "tintindex": 0},
+				"south": {"uv": [0, 0, 0, 0.04], "texture": "#1", "tintindex": 0},
+				"west": {"uv": [0, 0, 0, 0.04], "texture": "#1", "tintindex": 0},
+				"up": {"uv": [0, 5.15101, 2.54132, 10.24], "rotation": 90, "texture": "#1", "tintindex": 0},
+				"down": {"uv": [0, 10.24, 2.54132, 5.15101], "rotation": 270, "texture": "#1", "tintindex": 0}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, -6.4, 0],
+			"scale": [4, 4, 4]
+		}
+	}
+}

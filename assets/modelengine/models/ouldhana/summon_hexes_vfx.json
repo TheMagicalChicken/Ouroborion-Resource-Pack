@@ -1,1 +1,24 @@
-{"textures":{"1":"modelengine:entity/ouldhana_vfx"},"elements":[{"from":[-14.857143,7.9714284,-14.857143],"to":[30.857143,8.028571,30.857143],"rotation":{"angle":0.0,"axis":"y","origin":[8.0,8.0,8.0]},"faces":{"up":{"uv":[7.941615,7.951553,0.004114907,0.0],"rotation":0,"texture":"#1","tintindex":0},"down":{"uv":[7.941615,0.0,0.0,7.951553],"rotation":0,"texture":"#1","tintindex":0}}}],"display":{"head":{"translation":[0.0,-6.4,0.0],"scale":[4.0,4.0,4.0]}}}
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [25, 25],
+	"textures": {
+		"1": "modelengine:entity/ouldhana_vfx"
+	},
+	"elements": [
+		{
+			"from": [-14.85714, 7.97143, -14.85714],
+			"to": [30.85714, 8.02857, 30.85714],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"up": {"uv": [5.08263, 5.08899, 0.00263, 0], "texture": "#1", "tintindex": 0},
+				"down": {"uv": [5.08263, 0, 0, 5.08899], "texture": "#1", "tintindex": 0}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, -6.4, 0],
+			"scale": [4, 4, 4]
+		}
+	}
+}
