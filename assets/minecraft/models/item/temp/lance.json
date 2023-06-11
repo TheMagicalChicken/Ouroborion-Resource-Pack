@@ -5,27 +5,27 @@
         "thirdperson_righthand": {
             "rotation": [ -55,-90,0],
             "translation": [ 0, 18, -2.6],
-            "scale": [ 2.7, 2.7, 0.9 ]
+            "scale": [ 3.6, 3.6, 0.9 ]
         },
         "thirdperson_lefthand": {
             "rotation": [ -55,90,0],
             "translation": [ 0, 18, -2.6],
-            "scale": [ 2.7, 2.7, 0.9 ]
+            "scale": [ 3.6, 3.6, 0.9 ]
         },
         "firstperson_righthand": {
             "rotation": [ -20,110,0],
             "translation": [ 2, 5, -16],
-            "scale": [ 2.7, 2.7, 0.9]
+            "scale": [ 3.6, 3.6, 0.9]
         },
         "firstperson_lefthand": {
             "rotation": [ -20,-70,0],
             "translation": [ 2, 5, -16],
-            "scale": [ 2.7, 2.7, 0.9]
+            "scale": [ 3.6, 3.6, 0.9]
         },
         "gui": {
             "rotation": [ 0, 0, 0 ],
             "translation": [ 0, 0, 0 ],
-            "scale": [ 1.2, 1.2, 1 ]
+            "scale": [ 1.6, 1.6, 1 ]
         },
         "fixed": {
             "rotation": [ 0, 180, 0 ],

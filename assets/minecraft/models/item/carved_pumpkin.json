@@ -2,6 +2,7 @@
     "parent": "block/carved_pumpkin",
 	
 	"overrides": [
+		{"predicate": {"custom_model_data": 5000}, "model": "item/temp/helmet"},
 		{"predicate": {"custom_model_data": 5001}, "model": "item/mobs/tlaloc/tlaloc_hat"},
 		{"predicate": {"custom_model_data": 5002}, "model": "item/mobs/ouldhana/ouldhana_hat" },
 		{"predicate": {"custom_model_data": 5100}, "model": "item/event/jousting_helmet_blue" },
