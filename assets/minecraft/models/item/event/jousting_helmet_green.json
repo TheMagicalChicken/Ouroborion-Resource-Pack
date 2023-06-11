@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	  "parent": "item/temp/helmet",
+	"textures": {
+		"0": "item/event/jousting_helmet_green",
+		"particle": "item/event/jousting_helmet_green"
+	}
+}

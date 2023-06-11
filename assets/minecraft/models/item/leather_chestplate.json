@@ -5,7 +5,6 @@
 	"layer1": "item/leather_chestplate_overlay"
   },
   "overrides":[
-	{"predicate":{"custom_model_data":1},"model":"item/equipment/leather/leather_chestplate"},
-	{"predicate":{"custom_model_data":20},"model":"item/equipment/steel/steel_chestplate"}
+	{"predicate":{"custom_model_data":5100},"model":"item/event/tourney_chestplate"}
   ]
 }
