@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "item/equipment/whistle"
+		"layer0": "item/instrument/whistle"
 	},
 	"display": {
 		"thirdperson_righthand": {

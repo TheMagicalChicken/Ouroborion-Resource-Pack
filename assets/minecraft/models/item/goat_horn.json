@@ -27,7 +27,7 @@
 	},
 	"overrides":[
 		{"predicate":{"tooting":1},"model":"item/tooting_goat_horn"},
-		{"predicate":{"custom_model_data":1},"model":"item/equipment/whistle"},
-		{"predicate":{"tooting":1,"custom_model_data":1},"model":"item/equipment/whistle_tooting"}
+		{"predicate":{"custom_model_data":1},"model":"item/instrument/whistle"},
+		{"predicate":{"tooting":1,"custom_model_data":1},"model":"item/instrument/whistle_tooting"}
 	]
 }
