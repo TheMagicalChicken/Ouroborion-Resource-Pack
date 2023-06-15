@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/temp/lance",
+  "textures": {
+    "layer0": "minecraft:item/event/jousting_lance_blue"
+  }
+}

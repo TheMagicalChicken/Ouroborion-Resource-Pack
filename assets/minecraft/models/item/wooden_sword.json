@@ -4,7 +4,11 @@
 		"layer0": "item/wooden_sword"
 	},
 	"overrides": [
-		{ "predicate": { "custom_model_data": 5100}, "model": "item/event/jousting_lance" },
+		{ "predicate": { "custom_model_data": 5100}, "model": "item/event/jousting_lance_blue" },
+		{ "predicate": { "custom_model_data": 5101}, "model": "item/event/jousting_lance_green" },
+		{ "predicate": { "custom_model_data": 5102}, "model": "item/event/jousting_lance_red" },
+		{ "predicate": { "custom_model_data": 5103}, "model": "item/event/jousting_lance_yellow" },
+		{ "predicate": { "custom_model_data": 5104}, "model": "item/event/jousting_lance_orange" },
 		{ "predicate": { "custom_model_data": 5500}, "model": "item/instrument/lute" },
 		{ "predicate": { "custom_model_data": 5501}, "model": "item/instrument/lyre" }
 	]

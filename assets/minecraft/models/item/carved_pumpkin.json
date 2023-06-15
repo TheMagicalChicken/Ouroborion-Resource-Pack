@@ -8,6 +8,7 @@
 		{"predicate": {"custom_model_data": 5100}, "model": "item/event/jousting_helmet_blue" },
 		{"predicate": {"custom_model_data": 5101}, "model": "item/event/jousting_helmet_green" },
 		{"predicate": {"custom_model_data": 5102}, "model": "item/event/jousting_helmet_red" },
-		{"predicate": {"custom_model_data": 5103}, "model": "item/event/jousting_helmet_yellow" }
+		{"predicate": {"custom_model_data": 5103}, "model": "item/event/jousting_helmet_yellow" },
+		{"predicate": {"custom_model_data": 5104}, "model": "item/event/jousting_helmet_orange" }
 	]
 }
