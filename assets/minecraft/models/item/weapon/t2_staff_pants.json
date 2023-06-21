@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/temp/staff",
+  "textures": {
+    "layer0": "minecraft:item/equipment/t2_staff"
+  }
+}

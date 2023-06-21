@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-	"layer0": "minecraft:item/equipment/steel/steel_leggings",
-    "layer1": "minecraft:item/equipment/steel/steel_leggings"
-  }
-}

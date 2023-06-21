@@ -1,0 +1,24 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/netherite_axe"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 101}, "model": "item/weapon/t1_axe" },
+		{ "predicate": { "custom_model_data": 102}, "model": "item/weapon/t1_greataxe" },
+		{ "predicate": { "custom_model_data": 103}, "model": "item/weapon/t1_hammer" },
+		{ "predicate": { "custom_model_data": 104}, "model": "item/weapon/t1_greathammer" },
+		{ "predicate": { "custom_model_data": 201}, "model": "item/weapon/t1_axe" },
+		{ "predicate": { "custom_model_data": 202}, "model": "item/weapon/t1_greataxe" },
+		{ "predicate": { "custom_model_data": 203}, "model": "item/weapon/t1_hammer" },
+		{ "predicate": { "custom_model_data": 204}, "model": "item/weapon/t1_greathammer" },
+		{ "predicate": { "custom_model_data": 301}, "model": "item/weapon/t1_axe" },
+		{ "predicate": { "custom_model_data": 302}, "model": "item/weapon/t1_greataxe" },
+		{ "predicate": { "custom_model_data": 303}, "model": "item/weapon/t1_hammer" },
+		{ "predicate": { "custom_model_data": 304}, "model": "item/weapon/t1_greathammer" },
+		{ "predicate": { "custom_model_data": 401}, "model": "item/weapon/t1_axe" },
+		{ "predicate": { "custom_model_data": 402}, "model": "item/weapon/t1_greataxe" },
+		{ "predicate": { "custom_model_data": 403}, "model": "item/weapon/t1_hammer" },
+		{ "predicate": { "custom_model_data": 404}, "model": "item/weapon/t1_greathammer" }
+	]
+}
