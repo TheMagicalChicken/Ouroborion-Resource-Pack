@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/temp/greatsword",
   "textures": {
-    "layer0": "minecraft:item/equipment/t4_greatsword"
+    "layer0": "minecraft:item/weapon/t4_greatsword"
   }
 }

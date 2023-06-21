@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "minecraft:item/equipment/t2_hammer"
+    "layer0": "minecraft:item/weapon/t2_hammer"
   }
 }
