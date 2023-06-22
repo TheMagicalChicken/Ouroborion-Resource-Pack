@@ -6,7 +6,7 @@
 	
 	"overrides": [
 		{"predicate": {"custom_model_data": 1}, "model": "item/material/magic_fragment"},
-		{"predicate": {"custom_model_data": 2}, "model": "item/material/magic_essance"},
+		{"predicate": {"custom_model_data": 2}, "model": "item/material/magic_essence"},
 		{"predicate": {"custom_model_data": 3}, "model": "item/material/fine_cloth"},
 		{"predicate": {"custom_model_data": 4}, "model": "item/material/infused_cloth"},
 		{"predicate": {"custom_model_data": 5}, "model": "item/material/arcane_cloth"},
@@ -19,6 +19,7 @@
 		{"predicate": {"custom_model_data":12}, "model": "item/material/soul_star"},
 		{"predicate": {"custom_model_data":13}, "model": "item/material/lich_blood"},
 		{"predicate": {"custom_model_data":14}, "model": "item/material/blood_diamond"},
-		{"predicate": {"custom_model_data":15}, "model": "item/material/starmetal_ingot"}
+		{"predicate": {"custom_model_data":15}, "model": "item/material/starmetal_ingot"},
+		{"predicate": {"custom_model_data":16}, "model": "item/material/silver_ingot"}
 	]
 }
