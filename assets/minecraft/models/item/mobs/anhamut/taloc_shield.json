@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "Taloc_shield",
+	"parent": "taloc_shield",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "items/shields/taloc_shield",
-		"particle": "items/shields/taloc_shield"
+		"0": "item/mobs/anhamut/taloc_shield",
+		"particle": "item/mobs/anhamut/taloc_shield"
 	},
 	"elements": [
 		{

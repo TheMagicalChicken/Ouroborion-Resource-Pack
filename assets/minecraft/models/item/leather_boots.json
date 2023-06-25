@@ -5,10 +5,6 @@
 	"layer1": "item/null"
   },
   "overrides":[
-	{"predicate":{"custom_model_data":5100},"model":"item/event/tourney_boots"},
-  {"predicate": {"custom_model_data":1001}, "model": "item/mobs/hakar/colorable_puddle"},
-  {"predicate": {"custom_model_data":1002}, "model": "item/mobs/hakar/colorable_energywave"},
-  {"predicate": {"custom_model_data":1003}, "model": "item/mobs/anhamut/colorable_laser"},
-  {"predicate": {"custom_model_data":1004}, "model": "item/mobs/anhamut/cannonball"}
+	{"predicate":{"custom_model_data":5100},"model":"item/event/tourney_boots"}
   ]
 }

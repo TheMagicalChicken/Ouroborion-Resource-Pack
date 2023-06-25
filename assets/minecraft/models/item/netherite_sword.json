@@ -46,8 +46,6 @@
 		{ "predicate": { "custom_model_data": 5003}, "model": "item/mobs/elitecreatures/thanatosreaper/reaperscythe" },
 		{"predicate": {"custom_model_data":5004}, "model": "item/mobs/anhamut/macuahuitl"},
 		{ "predicate": { "custom_model_data": 3000001}, "model": "item/mobs/elitecreatures/skeletons/skeletonecspear"},
-		{ "predicate": { "custom_model_data": 3000002}, "model": "item/mobs/elitecreatures/skeletons/skeletonecsword"},
-		{ "predicate": { "custom_model_data": 3000003}, "model": "item/mobs/elitecreatures/skeletons2/skeletonecaxe"},
-		{ "predicate": { "custom_model_data": 3000004}, "model": "item/mobs/elitecreatures/skeletons2/skeletonecmace"}
+		{ "predicate": { "custom_model_data": 3000002}, "model": "item/mobs/elitecreatures/skeletons/skeletonecsword"}
 	]
 }

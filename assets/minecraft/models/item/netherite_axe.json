@@ -19,6 +19,8 @@
 		{ "predicate": { "custom_model_data": 401}, "model": "item/weapon/t4_axe" },
 		{ "predicate": { "custom_model_data": 402}, "model": "item/weapon/t4_greataxe" },
 		{ "predicate": { "custom_model_data": 403}, "model": "item/weapon/t4_hammer" },
-		{ "predicate": { "custom_model_data": 404}, "model": "item/weapon/t4_greathammer" }
+		{ "predicate": { "custom_model_data": 404}, "model": "item/weapon/t4_greathammer" },
+		{ "predicate": { "custom_model_data": 3000001}, "model": "item/mobs/elitecreatures/skeletons2/skeletonecaxe"},
+		{ "predicate": { "custom_model_data": 3000002}, "model": "item/mobs/elitecreatures/skeletons2/skeletonecmace"}
 	]
 }

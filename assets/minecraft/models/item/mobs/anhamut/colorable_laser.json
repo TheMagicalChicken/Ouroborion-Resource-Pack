@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "items/spelleffects/colorable_laser",
-		"particle": "items/spelleffects/colorable_laser"
+		"0": "item/mobs/anhamut/colorable_laser",
+		"particle": "item/mobs/anhamut/colorable_laser"
 	},
 	"elements": [
 		{
