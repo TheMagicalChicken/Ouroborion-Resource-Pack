@@ -10,6 +10,7 @@
 		{ "predicate": { "custom_model_data": 5103}, "model": "item/event/jousting_lance_yellow" },
 		{ "predicate": { "custom_model_data": 5104}, "model": "item/event/jousting_lance_orange" },
 		{ "predicate": { "custom_model_data": 5500}, "model": "item/instrument/lute" },
-		{ "predicate": { "custom_model_data": 5501}, "model": "item/instrument/lyre" }
+		{ "predicate": { "custom_model_data": 5501}, "model": "item/instrument/lyre" },
+		{ "predicate": { "custom_model_data": 5502}, "model": "item/instrument/crystalyre" }
 	]
 }

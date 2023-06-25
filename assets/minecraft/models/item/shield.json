@@ -42,6 +42,8 @@
     },
     "overrides": [
         { "predicate": { "blocking": 1 }, "model": "item/shield" },
+        { "predicate": {"custom_model_data":1001}, "model":"item/mobs/anhamut/taloc_shield"},
+		{ "predicate": {"custom_model_data":1001, "blocking": 1}, "model":"item/mobs/anhamut/taloc_shield_blocking"},
 		{ "predicate": {"custom_model_data":3000001}, "model":"item/mobs/elitecreatures/skeletons/spearmanshield"},
 		{ "predicate": {"custom_model_data":3000001, "blocking": 1}, "model":"item/mobs/elitecreatures/skeletons/spearmanshieldblocking"},
 		{ "predicate": {"custom_model_data":3000002}, "model":"item/mobs/elitecreatures/skeletons/swordsmanshield"},

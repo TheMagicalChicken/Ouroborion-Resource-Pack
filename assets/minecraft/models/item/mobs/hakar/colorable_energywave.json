@@ -1,0 +1,33 @@
+{
+	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
+	"textures": {
+		"0": "item/mobs/hakar/colorable_energywave",
+		"particle": "item/mobs/hakar/colorable_energywave"
+	},
+	"elements": [
+		{
+			"from": [-8, 0, -8],
+			"to": [24, 0, 24],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "rotation": 90, "texture": "#0", "tintindex": 0},
+				"down": {"uv": [16, 16, 0, 0], "rotation": 90, "texture": "#0", "tintindex": 0}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 0, 90],
+			"translation": [-7.75, -1.75, 9.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 0, 90],
+			"translation": [3.75, -4.75, 0]
+		},
+		"head": {
+			"translation": [0, 22.5, 20.5],
+			"scale": [3, 3, 3]
+		}
+	}
+}

@@ -1,0 +1,23 @@
+{
+	"credit": "Lumine",
+	"textures": {
+		"0": "item/mobs/hakar/colorable_puddle",
+		"particle": "item/mobs/hakar/colorable_puddle"
+	},
+	"elements": [
+		{
+			"from": [-10, 0, -10],
+			"to": [26, 0, 26],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "texture": "#0","tintindex":0}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, -9.25, 0],
+			"scale": [4, 4, 4]
+		}
+	}
+}
