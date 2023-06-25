@@ -75,6 +75,10 @@
 		{
             "predicate": { "custom_model_data":5502 },
             "model": "item/instrument/bagpipes"
+        },
+        {
+            "predicate": { "custom_model_data":5503 },
+            "model": "item/instrument/trumpet"
         }
     ]
 }

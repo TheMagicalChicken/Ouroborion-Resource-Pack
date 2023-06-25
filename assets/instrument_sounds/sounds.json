@@ -1,0 +1,8 @@
+{
+    "instrument.trumpet": {
+      "category": "master",
+      "sounds": [
+        "instrument/trumpet"
+      ]
+    }
+  }
