@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/temp/longbow",
+  "textures": {
+    "layer0": "minecraft:item/weapon/t4_bow"
+  }
+}

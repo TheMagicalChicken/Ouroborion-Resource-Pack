@@ -21,6 +21,10 @@
 		{"predicate": {"custom_model_data":14}, "model": "item/material/blood_diamond"},
 		{"predicate": {"custom_model_data":15}, "model": "item/material/starmetal_ingot"},
 		{"predicate": {"custom_model_data":16}, "model": "item/material/silver_ingot"},
-		{"predicate": {"custom_model_data":17}, "model": "item/material/gold_doubloon"}
+		{"predicate": {"custom_model_data":17}, "model": "item/material/gold_doubloon"},
+		{"predicate": {"custom_model_data":18}, "model": "item/material/ruby"},
+		{"predicate": {"custom_model_data":19}, "model": "item/material/sapphire"},
+		{"predicate": {"custom_model_data":20}, "model": "item/material/topaz"},
+		{"predicate": {"custom_model_data":21}, "model": "item/material/amethyst"}
 	]
 }
