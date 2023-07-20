@@ -20,6 +20,7 @@
 		{"predicate": {"custom_model_data":13}, "model": "item/material/lich_blood"},
 		{"predicate": {"custom_model_data":14}, "model": "item/material/blood_diamond"},
 		{"predicate": {"custom_model_data":15}, "model": "item/material/starmetal_ingot"},
-		{"predicate": {"custom_model_data":16}, "model": "item/material/silver_ingot"}
+		{"predicate": {"custom_model_data":16}, "model": "item/material/silver_ingot"},
+		{"predicate": {"custom_model_data":17}, "model": "item/material/gold_doubloon"}
 	]
 }
