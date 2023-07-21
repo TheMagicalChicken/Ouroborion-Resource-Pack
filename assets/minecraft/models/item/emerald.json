@@ -25,6 +25,9 @@
 		{"predicate": {"custom_model_data":18}, "model": "item/material/ruby"},
 		{"predicate": {"custom_model_data":19}, "model": "item/material/sapphire"},
 		{"predicate": {"custom_model_data":20}, "model": "item/material/topaz"},
-		{"predicate": {"custom_model_data":21}, "model": "item/material/amethyst"}
+		{"predicate": {"custom_model_data":21}, "model": "item/material/amethyst"},
+		{"predicate": {"custom_model_data":22}, "model": "item/material/malachite"},
+		{"predicate": {"custom_model_data":23}, "model": "item/material/jasper"},
+		{"predicate": {"custom_model_data":24}, "model": "item/material/aquamarine"}
 	]
 }
