@@ -4,7 +4,8 @@
     "layer0": "minecraft:item/pumpkin_pie"
   },
   "overrides": [
-		{"predicate": {"custom_model_data":1000}, "model": "item/food/cheese_pizza_slice"},
-		{"predicate": {"custom_model_data":1001}, "model": "item/food/pepperoni_pizza_slice"}
+		{"predicate": {"custom_model_data":1}, "model": "item/food/mango"},
+		{"predicate": {"custom_model_data":1000}, "model": "item/food/pizza_slice_cheese"},
+		{"predicate": {"custom_model_data":1001}, "model": "item/food/pizza_slice_pepperoni"}
   ]
 }
