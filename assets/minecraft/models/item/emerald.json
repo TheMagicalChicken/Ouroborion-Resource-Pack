@@ -28,6 +28,11 @@
 		{"predicate": {"custom_model_data":21}, "model": "item/material/amethyst"},
 		{"predicate": {"custom_model_data":22}, "model": "item/material/malachite"},
 		{"predicate": {"custom_model_data":23}, "model": "item/material/jasper"},
-		{"predicate": {"custom_model_data":24}, "model": "item/material/aquamarine"}
+		{"predicate": {"custom_model_data":24}, "model": "item/material/aquamarine"},
+		{"predicate": {"custom_model_data":25}, "model": "item/material/gem_uncommon"},
+		{"predicate": {"custom_model_data":26}, "model": "item/material/gem_rare"},
+		{"predicate": {"custom_model_data":27}, "model": "item/material/gem_epic"},
+		{"predicate": {"custom_model_data":28}, "model": "item/material/gem_legendary"},
+		{"predicate": {"custom_model_data":29}, "model": "item/material/magic_scroll"}
 	]
 }
