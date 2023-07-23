@@ -5,6 +5,22 @@
 	"layer1": "item/null"
   },
   "overrides":[
+	{"predicate":{"custom_model_data":100},"model":"item/armor/t1_light_boots"},
+	{"predicate":{"custom_model_data":101},"model":"item/armor/t1_medium_boots"},
+	{"predicate":{"custom_model_data":102},"model":"item/armor/t1_heavy_boots"},
+	{"predicate":{"custom_model_data":103},"model":"item/armor/t1_mage_boots"},
+	{"predicate":{"custom_model_data":200},"model":"item/armor/t2_light_boots"},
+	{"predicate":{"custom_model_data":201},"model":"item/armor/t2_medium_boots"},
+	{"predicate":{"custom_model_data":202},"model":"item/armor/t2_heavy_boots"},
+	{"predicate":{"custom_model_data":203},"model":"item/armor/t2_mage_boots"},
+	{"predicate":{"custom_model_data":300},"model":"item/armor/t3_light_boots"},
+	{"predicate":{"custom_model_data":301},"model":"item/armor/t3_medium_boots"},
+	{"predicate":{"custom_model_data":302},"model":"item/armor/t3_heavy_boots"},
+	{"predicate":{"custom_model_data":303},"model":"item/armor/t3_mage_boots"},
+	{"predicate":{"custom_model_data":400},"model":"item/armor/t4_light_boots"},
+	{"predicate":{"custom_model_data":401},"model":"item/armor/t4_medium_boots"},
+	{"predicate":{"custom_model_data":402},"model":"item/armor/t4_heavy_boots"},
+	{"predicate":{"custom_model_data":403},"model":"item/armor/t4_mage_boots"},
 	{"predicate":{"custom_model_data":5100},"model":"item/event/tourney_boots"}
   ]
 }
