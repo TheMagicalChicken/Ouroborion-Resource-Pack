@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/honey_bottle"
+  }
+  "overrides": [
+	{"predicate": {"custom_model_data":1}, "model": "item/material/healing_potion"},
+	{"predicate": {"custom_model_data":2}, "model": "item/material/mana_potion"},
+	{"predicate": {"custom_model_data":3}, "model": "item/material/healing_potion_large"},
+	{"predicate": {"custom_model_data":4}, "model": "item/material/mana_potion_large"}
+  ]
+}
