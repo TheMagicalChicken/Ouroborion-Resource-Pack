@@ -1,0 +1,7 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/null",
+		"layer1": "item/armor/bloodsteel_chestplate"
+	}
+}
