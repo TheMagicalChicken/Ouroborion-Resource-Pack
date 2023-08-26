@@ -1,0 +1,7 @@
+{
+	"parent": "item/temp/helmet",
+	"textures": {
+		"0": "item/armor/bloodsteel_helmet",
+		"particle": "item/armor/bloodsteel_helmet"
+	}
+}

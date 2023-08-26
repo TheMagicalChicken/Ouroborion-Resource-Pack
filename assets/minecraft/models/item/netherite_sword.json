@@ -63,7 +63,7 @@
 		{ "predicate": { "custom_model_data": 412}, "model": "item/weapon/t4_sabre" },
 		{ "predicate": { "custom_model_data": 430}, "model": "item/weapon/t4_1_wand" },
 		{ "predicate": { "custom_model_data": 460}, "model": "item/weapon/t4_1_staff" },
-		
+
 		{ "predicate": { "custom_model_data": 501}, "model": "item/weapon/t5_sword" },
 		{ "predicate": { "custom_model_data": 502}, "model": "item/weapon/t5_greatsword" },
 		{ "predicate": { "custom_model_data": 503}, "model": "item/weapon/t5_hammer" },
@@ -78,7 +78,7 @@
 		{ "predicate": { "custom_model_data": 512}, "model": "item/weapon/t5_sabre" },
 		{ "predicate": { "custom_model_data": 530}, "model": "item/weapon/t5_1_wand" },
 		{ "predicate": { "custom_model_data": 560}, "model": "item/weapon/t5_1_staff" },
-		
+
 		{ "predicate": { "custom_model_data": 1000}, "model": "item/weapon/bloodsteel_greatsword" },
 		{ "predicate": { "custom_model_data": 1000, "damaged": 1, "damage": 0.1}, "model": "item/weapon/bloodsteel_greatsword_1" },
 		{ "predicate": { "custom_model_data": 1000, "damaged": 1, "damage": 0.2}, "model": "item/weapon/bloodsteel_greatsword_2" },
@@ -95,7 +95,7 @@
 		{ "predicate": { "custom_model_data": 1003, "damaged": 1, "damage": 0.1}, "model": "item/weapon/bloodsteel_staff_1" },
 		{ "predicate": { "custom_model_data": 1003, "damaged": 1, "damage": 0.2}, "model": "item/weapon/bloodsteel_staff_2" },
 		{ "predicate": { "custom_model_data": 1003, "damaged": 1, "damage": 0.4}, "model": "item/weapon/bloodsteel_staff_3" },
-		
+
 		{ "predicate": { "custom_model_data": 1010}, "model": "item/weapon/emerald_sword" },
 		{ "predicate": { "custom_model_data": 1016}, "model": "item/weapon/emerald_staff" },
 		{ "predicate": { "custom_model_data": 1020}, "model": "item/weapon/ruby_sword" },
