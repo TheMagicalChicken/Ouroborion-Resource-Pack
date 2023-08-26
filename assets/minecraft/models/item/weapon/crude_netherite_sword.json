@@ -1,0 +1,6 @@
+{
+	"parent": "item/temp/one_handed",
+	"textures": {
+		"layer0": "item/weapon/crude_netherite_sword"
+	}
+}

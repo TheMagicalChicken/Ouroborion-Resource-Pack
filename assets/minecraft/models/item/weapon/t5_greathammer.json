@@ -1,0 +1,6 @@
+{
+	"parent": "item/temp/staff",
+	"textures": {
+		"layer0": "item/weapon/t5_greathammer"
+	}
+}

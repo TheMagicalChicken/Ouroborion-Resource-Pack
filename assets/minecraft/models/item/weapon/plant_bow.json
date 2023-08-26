@@ -1,0 +1,6 @@
+{
+	"parent": "item/temp/longbow",
+	"textures": {
+		"layer0": "item/weapon/plant_bow"
+	}
+}

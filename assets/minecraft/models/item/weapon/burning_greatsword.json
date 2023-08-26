@@ -1,0 +1,6 @@
+{
+	"parent": "item/temp/greatsword",
+	"textures": {
+		"layer0": "item/weapon/burning_greatsword"
+	}
+}

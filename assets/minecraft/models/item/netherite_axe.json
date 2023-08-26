@@ -8,18 +8,56 @@
 		{ "predicate": { "custom_model_data": 102}, "model": "item/weapon/t1_greataxe" },
 		{ "predicate": { "custom_model_data": 103}, "model": "item/weapon/t1_hammer" },
 		{ "predicate": { "custom_model_data": 104}, "model": "item/weapon/t1_greathammer" },
+		{ "predicate": { "custom_model_data": 108}, "model": "item/weapon/t1_mace" },
+		
 		{ "predicate": { "custom_model_data": 201}, "model": "item/weapon/t2_axe" },
 		{ "predicate": { "custom_model_data": 202}, "model": "item/weapon/t2_greataxe" },
 		{ "predicate": { "custom_model_data": 203}, "model": "item/weapon/t2_hammer" },
 		{ "predicate": { "custom_model_data": 204}, "model": "item/weapon/t2_greathammer" },
+		{ "predicate": { "custom_model_data": 208}, "model": "item/weapon/t2_mace" },
+		
 		{ "predicate": { "custom_model_data": 301}, "model": "item/weapon/t3_axe" },
 		{ "predicate": { "custom_model_data": 302}, "model": "item/weapon/t3_greataxe" },
 		{ "predicate": { "custom_model_data": 303}, "model": "item/weapon/t3_hammer" },
 		{ "predicate": { "custom_model_data": 304}, "model": "item/weapon/t3_greathammer" },
+		{ "predicate": { "custom_model_data": 308}, "model": "item/weapon/t3_mace" },
+		
 		{ "predicate": { "custom_model_data": 401}, "model": "item/weapon/t4_axe" },
 		{ "predicate": { "custom_model_data": 402}, "model": "item/weapon/t4_greataxe" },
 		{ "predicate": { "custom_model_data": 403}, "model": "item/weapon/t4_hammer" },
 		{ "predicate": { "custom_model_data": 404}, "model": "item/weapon/t4_greathammer" },
+		{ "predicate": { "custom_model_data": 408}, "model": "item/weapon/t4_mace" },
+		
+		{ "predicate": { "custom_model_data": 501}, "model": "item/weapon/t5_axe" },
+		{ "predicate": { "custom_model_data": 502}, "model": "item/weapon/t5_greataxe" },
+		{ "predicate": { "custom_model_data": 503}, "model": "item/weapon/t5_hammer" },
+		{ "predicate": { "custom_model_data": 504}, "model": "item/weapon/t5_greathammer" },
+		{ "predicate": { "custom_model_data": 508}, "model": "item/weapon/t5_mace" },
+		
+		{ "predicate": { "custom_model_data": 1010}, "model": "item/weapon/emerald_axe" },
+		{ "predicate": { "custom_model_data": 1020}, "model": "item/weapon/ruby_axe" },
+		{ "predicate": { "custom_model_data": 1030}, "model": "item/weapon/sapphire_axe" },
+		{ "predicate": { "custom_model_data": 1040}, "model": "item/weapon/topaz_axe" },
+		{ "predicate": { "custom_model_data": 1050}, "model": "item/weapon/golden_axe" },
+		
+		{ "predicate": { "custom_model_data": 1060}, "model": "item/weapon/bone_club" },
+		{ "predicate": { "custom_model_data": 1061}, "model": "item/weapon/bone_greatclub" },
+		{ "predicate": { "custom_model_data": 1071}, "model": "item/weapon/burning_greataxe" },
+		{ "predicate": { "custom_model_data": 1080}, "model": "item/weapon/crude_netherite_sword" },
+		{ "predicate": { "custom_model_data": 1081}, "model": "item/weapon/crude_netherite_greataxe" },
+		{ "predicate": { "custom_model_data": 1082}, "model": "item/weapon/crude_netherite_spear" },
+		{ "predicate": { "custom_model_data": 1090}, "model": "item/weapon/desert_kopesh" },
+		{ "predicate": { "custom_model_data": 1091}, "model": "item/weapon/desert_palmaxe" },
+		
+		{ "predicate": { "custom_model_data": 1101}, "model": "item/weapon/druid_greataxe" },
+		{ "predicate": { "custom_model_data": 1110}, "model": "item/weapon/ice_battleaxe" },
+		{ "predicate": { "custom_model_data": 1111}, "model": "item/weapon/ice_greataxe" },
+		{ "predicate": { "custom_model_data": 1120}, "model": "item/weapon/obsidian_axe" },
+		{ "predicate": { "custom_model_data": 1121}, "model": "item/weapon/obsidian_macuahuitl" },
+		{ "predicate": { "custom_model_data": 1130}, "model": "item/weapon/spiked_axe" },
+		{ "predicate": { "custom_model_data": 1131}, "model": "item/weapon/spiked_greataxe" },
+		{ "predicate": { "custom_model_data": 1133}, "model": "item/weapon/spiked_club" },
+		
 		{ "predicate": { "custom_model_data": 3000001}, "model": "item/mobs/elitecreatures/skeletons2/skeletonecaxe"},
 		{ "predicate": { "custom_model_data": 3000002}, "model": "item/mobs/elitecreatures/skeletons2/skeletonecmace"}
 	]

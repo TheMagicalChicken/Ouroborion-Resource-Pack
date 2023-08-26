@@ -29,6 +29,7 @@
 		{"predicate": {"custom_model_data":23}, "model": "item/food/tomato"},
 		
 		{"predicate": {"custom_model_data":1000}, "model": "item/food/pizza_slice_cheese"},
-		{"predicate": {"custom_model_data":1001}, "model": "item/food/pizza_slice_pepperoni"}
+		{"predicate": {"custom_model_data":1001}, "model": "item/food/pizza_slice_pepperoni"},
+		{"predicate": {"custom_model_data":1002}, "model": "item/food/happy_meal_tm"}
   ]
 }

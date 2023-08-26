@@ -1,0 +1,6 @@
+{
+	"parent": "item/temp/battleaxe",
+	"textures": {
+		"layer0": "item/weapon/bone_greatclub"
+	}
+}

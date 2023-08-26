@@ -1,0 +1,6 @@
+{
+	"parent": "item/temp/one_handed",
+	"textures": {
+		"layer0": "item/weapon/topaz_sword"
+	}
+}

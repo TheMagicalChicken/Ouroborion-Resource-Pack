@@ -64,21 +64,52 @@
             },
             "model": "item/crossbow_firework"
         },
-        {
-            "predicate": { "custom_model_data":5500 },
-            "model": "item/instrument/flute"
-        },
-		{
-            "predicate": { "custom_model_data":5501 },
-            "model": "item/instrument/panpipes"
-        },
-		{
-            "predicate": { "custom_model_data":5502 },
-            "model": "item/instrument/bagpipes"
-        },
-        {
-            "predicate": { "custom_model_data":5503 },
-            "model": "item/instrument/trumpet"
-        }
+		
+		{ "predicate": { "custom_model_data":101 }, "model": "item/weapon/t1_crossbow_standby" },
+		{ "predicate": { "pulling": 1, "custom_model_data":101 }, "model": "item/weapon/t1_crossbow_pulling_0" },
+        { "predicate": { "pulling": 1, "pull": 0.58, "custom_model_data":101 }, "model": "item/weapon/t1_crossbow_pulling_1" },
+        { "predicate": { "pulling": 1, "pull": 1.0, "custom_model_data":101 }, "model": "item/weapon/t1_crossbow_pulling_2" },
+        { "predicate": { "charged": 1, "custom_model_data":101 }, "model": "item/weapon/t1_crossbow_arrow" },
+        { "predicate": { "charged": 1, "firework": 1, "custom_model_data":101 }, "model": "item/weapon/t1_crossbow_firework" },
+		
+		{ "predicate": { "custom_model_data":201 }, "model": "item/weapon/t2_crossbow_standby" },
+		{ "predicate": { "pulling": 1, "custom_model_data":201 }, "model": "item/weapon/t2_crossbow_pulling_0" },
+        { "predicate": { "pulling": 1, "pull": 0.58, "custom_model_data":201 }, "model": "item/weapon/t2_crossbow_pulling_1" },
+        { "predicate": { "pulling": 1, "pull": 1.0, "custom_model_data":201 }, "model": "item/weapon/t2_crossbow_pulling_2" },
+        { "predicate": { "charged": 1, "custom_model_data":201 }, "model": "item/weapon/t2_crossbow_arrow" },
+        { "predicate": { "charged": 1, "firework": 1, "custom_model_data":201 }, "model": "item/weapon/t2_crossbow_firework" },
+		
+		{ "predicate": { "custom_model_data":301 }, "model": "item/weapon/t3_crossbow_standby" },
+		{ "predicate": { "pulling": 1, "custom_model_data":301 }, "model": "item/weapon/t3_crossbow_pulling_0" },
+        { "predicate": { "pulling": 1, "pull": 0.58, "custom_model_data":301 }, "model": "item/weapon/t3_crossbow_pulling_1" },
+        { "predicate": { "pulling": 1, "pull": 1.0, "custom_model_data":301 }, "model": "item/weapon/t3_crossbow_pulling_2" },
+        { "predicate": { "charged": 1, "custom_model_data":301 }, "model": "item/weapon/t3_crossbow_arrow" },
+        { "predicate": { "charged": 1, "firework": 1, "custom_model_data":301 }, "model": "item/weapon/t3_crossbow_firework" },
+		
+		{ "predicate": { "custom_model_data":401 }, "model": "item/weapon/t4_crossbow_standby" },
+		{ "predicate": { "pulling": 1, "custom_model_data":401 }, "model": "item/weapon/t4_crossbow_pulling_0" },
+        { "predicate": { "pulling": 1, "pull": 0.58, "custom_model_data":401 }, "model": "item/weapon/t4_crossbow_pulling_1" },
+        { "predicate": { "pulling": 1, "pull": 1.0, "custom_model_data":401 }, "model": "item/weapon/t4_crossbow_pulling_2" },
+        { "predicate": { "charged": 1, "custom_model_data":401 }, "model": "item/weapon/t4_crossbow_arrow" },
+        { "predicate": { "charged": 1, "firework": 1, "custom_model_data":401 }, "model": "item/weapon/t4_crossbow_firework" },
+		
+		{ "predicate": { "custom_model_data":501 }, "model": "item/weapon/t5_crossbow_standby" },
+		{ "predicate": { "pulling": 1, "custom_model_data":501 }, "model": "item/weapon/t5_crossbow_pulling_0" },
+        { "predicate": { "pulling": 1, "pull": 0.58, "custom_model_data":501 }, "model": "item/weapon/t5_crossbow_pulling_1" },
+        { "predicate": { "pulling": 1, "pull": 1.0, "custom_model_data":501 }, "model": "item/weapon/t5_crossbow_pulling_2" },
+        { "predicate": { "charged": 1, "custom_model_data":501 }, "model": "item/weapon/t5_crossbow_arrow" },
+        { "predicate": { "charged": 1, "firework": 1, "custom_model_data":501 }, "model": "item/weapon/t5_crossbow_firework" },
+		
+		{ "predicate": { "custom_model_data":1110 }, "model": "item/weapon/ice_crossbow_standby" },
+		{ "predicate": { "pulling": 1, "custom_model_data":1110 }, "model": "item/weapon/ice_crossbow_pulling_0" },
+        { "predicate": { "pulling": 1, "pull": 0.58, "custom_model_data":1110 }, "model": "item/weapon/ice_crossbow_pulling_1" },
+        { "predicate": { "pulling": 1, "pull": 1.0, "custom_model_data":1110 }, "model": "item/weapon/ice_crossbow_pulling_2" },
+        { "predicate": { "charged": 1, "custom_model_data":1110 }, "model": "item/weapon/ice_crossbow_arrow" },
+        { "predicate": { "charged": 1, "firework": 1, "custom_model_data":1110 }, "model": "item/weapon/ice_crossbow_firework" },
+		
+        { "predicate": { "custom_model_data":5500 }, "model": "item/instrument/flute" },
+		{ "predicate": { "custom_model_data":5501 }, "model": "item/instrument/panpipes" },
+		{ "predicate": { "custom_model_data":5502 }, "model": "item/instrument/bagpipes" },
+        { "predicate": { "custom_model_data":5503 }, "model": "item/instrument/trumpet" }
     ]
 }
