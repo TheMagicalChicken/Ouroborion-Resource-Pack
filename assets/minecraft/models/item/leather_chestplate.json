@@ -21,8 +21,6 @@
 	{"predicate":{"custom_model_data":401},"model":"item/armor/t4_medium_chestplate"},
 	{"predicate":{"custom_model_data":402},"model":"item/armor/t4_heavy_chestplate"},
 	{"predicate":{"custom_model_data":403},"model":"item/armor/t4_mage_chestplate"},
-	{"predicate":{"custom_model_data":1000},"model":"item/armor/bloodsteel_chestplate"},
-	{"predicate":{"custom_model_data":1001},"model":"item/armor/assassin_chestplate"},
 	{"predicate":{"custom_model_data":5100},"model":"item/event/tourney_chestplate"}
   ]
 }

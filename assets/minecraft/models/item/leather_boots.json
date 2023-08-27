@@ -21,8 +21,6 @@
 	{"predicate":{"custom_model_data":401},"model":"item/armor/t4_medium_boots"},
 	{"predicate":{"custom_model_data":402},"model":"item/armor/t4_heavy_boots"},
 	{"predicate":{"custom_model_data":403},"model":"item/armor/t4_mage_boots"},
-	{"predicate":{"custom_model_data":1000},"model":"item/armor/bloodsteel_boots"},
-	{"predicate":{"custom_model_data":1001},"model":"item/armor/assassin_boots"},
 	{"predicate":{"custom_model_data":5100},"model":"item/event/tourney_boots"}
   ]
 }
