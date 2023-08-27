@@ -24,8 +24,8 @@ out vec2 texCoord0;
 
 // Function to convert a vertical ascent into a ID.
 float get_id(float offset) {
-    if (offset <= 0)
-        return 0;
+    if (offset <= 0.0)
+        return 0.0;
     return trunc(offset/1000);
 }
 
