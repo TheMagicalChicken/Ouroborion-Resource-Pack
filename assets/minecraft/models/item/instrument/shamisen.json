@@ -1,0 +1,41 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": { "layer0": "minecraft:item/instrument/shamisen" },
+  "display": {
+        "thirdperson_righthand": {
+            "rotation": [ 135,-90,0],
+            "translation": [ 0, -4, 0],
+            "scale": [ 1.8, 1.8, 0.9 ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [ 85,180,20],
+            "translation": [ 4, 2, 8],
+            "scale": [ 1.8, 1.8, 0.9 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 155,-90,0],
+            "translation": [ 2, -6, -4],
+            "scale": [ 1.8, 1.8, 0.9 ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ -25,90,0],
+            "translation": [ 5, 9, 0],
+            "scale": [ 1.8, 1.8, 0.9]
+        },
+        "gui": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 6, 6, 0 ],
+            "scale": [ 1.8, 1.8, 1 ]
+        },
+        "fixed": {
+            "rotation": [ 0, 180, 0 ],
+            "translation": [ -6.5, 6.5, 0 ],
+            "scale": [ 2, 2, 1 ]
+        },
+        "ground": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0,4,0],
+            "scale":[ 1, 1, 0.5]
+        }
+    }
+}
