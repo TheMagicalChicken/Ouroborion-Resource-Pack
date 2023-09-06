@@ -1,8 +1,4 @@
-{
-    "instrument.trumpet": {
-      "category": "master",
-      "sounds": [
-        "instrument/trumpet"
-      ]
-    }
-  }
+{ "instrument.shamisen": { "category": "master", "sounds": [ { "name": "instrument/shamisen" } ], "subtitle": "Shamisen plays" }, 
+"instrument.trumpet": { "category": "master", "sounds": [ { "name": "instrument/trumpet" } ], "subtitle": "Trumpet plays" },
+"instrument.rock": { "category": "master", "sounds": [ { "name": "instrument/rock" } ], "subtitle": "Ancient Morrigarian Artifact plays" }
+}
