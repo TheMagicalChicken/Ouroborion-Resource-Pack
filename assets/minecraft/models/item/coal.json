@@ -59,6 +59,13 @@
 		{"predicate": {"custom_model_data":2116}, "model": "heroes/ninja_samurai/icon_forbidden_art"},
 		{"predicate": {"custom_model_data":2117}, "model": "heroes/ninja_samurai/icon_laceration"},
 		{"predicate": {"custom_model_data":2118}, "model": "heroes/ninja_samurai/icon_piercing_shuriken"},
-		{"predicate": {"custom_model_data":2119}, "model": "heroes/ninja_samurai/icon_smoke_bomb"}
+		{"predicate": {"custom_model_data":2119}, "model": "heroes/ninja_samurai/icon_smoke_bomb"},
+		
+		{"predicate": {"custom_model_data":2200}, "model": "heroes/paladin/icon_minor_healing"},
+		{"predicate": {"custom_model_data":2201}, "model": "heroes/paladin/icon_taunting_shout"},
+		{"predicate": {"custom_model_data":2202}, "model": "heroes/paladin/icon_divine_grapple"},
+		{"predicate": {"custom_model_data":2203}, "model": "heroes/paladin/icon_divine_resilience"},
+		{"predicate": {"custom_model_data":2204}, "model": "heroes/paladin/icon_holy_pull"},
+		{"predicate": {"custom_model_data":2205}, "model": "heroes/paladin/icon_bless_implement"}
 	]
 }

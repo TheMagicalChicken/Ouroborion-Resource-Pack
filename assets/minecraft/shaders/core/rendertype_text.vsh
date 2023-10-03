@@ -26,7 +26,7 @@ out vec2 texCoord0;
 float get_id(float offset) {
     if (offset <= 0.0)
         return 0.0;
-    return trunc(offset/1000);
+    return float(trunc(offset/1000));
 }
 
 

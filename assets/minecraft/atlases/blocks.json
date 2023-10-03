@@ -9,6 +9,7 @@
 		{"source":"heroes/mage", 			"prefix":"heroes/mage/", 			"type":"directory"},
 		{"source":"heroes/necromancer", 	"prefix":"heroes/necromancer/", 	"type":"directory"},
 		{"source":"heroes/ninja_samurai", 	"prefix":"heroes/ninja_samurai/", 	"type":"directory"},
-		{"source":"heroes/warrior", 		"prefix":"heroes/warrior/", 		"type":"directory"}
+		{"source":"heroes/warrior", 		"prefix":"heroes/warrior/", 		"type":"directory"},
+		{"source":"heroes/paladin", 		"prefix":"heroes/paladin/", 		"type":"directory"}
 	]
 }
